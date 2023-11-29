@@ -1,7 +1,7 @@
 To run this code:
 Create a folder called PsychiaGPT in your base drive.
-Download the entire git repo and extract the files into this folder.
-There are 4 jupyter notebooks that should be run as Google Colabs that have all the runs. 
+Download the entire git repo and extract the files into this folder. Put the models from https://drive.google.com/drive/folders/19Y9E3qVhdjHSEFtAj2WjrzhHcbcOLauH?usp=sharing into the model_save/ folder to get all of our saved models (warning: the saved models are very big).
+There are 4 jupyter notebooks that should be run as Google Colabs that have all the runs.
 
 Finetuning BERT to classify is the original notebook used to build the BERT model. 
 Copy of Fine Tuning GPT2 is the notebook used to train the GPT2 model.
