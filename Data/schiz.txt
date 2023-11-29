@@ -1,0 +1,1867 @@
+   Mixed type: This subtype applies when no one delusional theme predominates.
+   Unspecified type: This subtype applies when the dominant delusional belief cannot
+   be clearly determined or is not described in the specific types (e.g., referential delu­
+   sions without a prominent persecutory or grandiose component).
+Specify if:
+   With bizarre content: Delusions are deemed bizarre if they are clearly implausible, not
+   understandable, and not derived from ordinary life experiences (e.g., an individual’s be­
+   lief that a stranger has removed his or her internal organs and replaced them with some­
+   one else’s organs without leaving any wounds or scars).
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the disorder:
+   First episode, currently in acute episode: First manifestation of the disorder meet­
+   ing the defining diagnostic symptom and time criteria. An acute episode is a time pe­
+   riod in which the symptom criteria are fulfilled.
+   First episode, currently in partial remission: Partial remission is a time period dur­
+   ing which an improvement after a previous episode is maintained and in which the de­
+   fining criteria of the disorder are only partially fulfilled.
+   First episode, currently in full remission: Full remission is a period of time after a
+   previous episode during which no disorder-specific symptoms are present.
+   lUlultiple episodes, currently in acute episode
+   Multiple episodes, currently in partial remission
+   Multiple episodes, currently in full remission
+   Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder are
+   remaining for the majority of the illness course, with subthreshold symptom periods be­
+   ing very brief relative to the overall course.
+   Unspecified
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, disorganized speech, abnormal psychomotor be­
+   havior, and negative symptoms. Each of these symptoms may be rated for its current
+   severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+   to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+   Severity in the chapter “Assessment Measures.”)
+   Note: Diagnosis of delusional disorder can be made without using this severity specifier.
+
+
+
+Subtypes
+In érotomanie type, the central theme of the delusion is that another person is in love with
+the individual. The person about whom this conviction is held is usually of higher status
+(e.g., a famous individual or a superior at work) but can be a complete stranger. Efforts to
+contact the object of the delusion are common. In grandiose type, the central theme of the de­
+lusion is the conviction of having some great talent or insight or of having made some im­
+portant discovery. Less commonly, the individual may have the delusion of having a
+special relationship with a prominent individual or of being a prominent person (in which
+case the actual individual may be regarded as an impostor). Grandiose delusions may
+have a religious content. In jealous type, the central theme of the delusion is that of an un­
+faithful partner. This belief is arrived at without due cause and is based on incorrect infer­
+ences supported by small bits of "evidence" (e.g., disarrayed clothing). The individual
+with the delusion usually confronts the spouse or lover and attempts to intervene in the
+imagined infidelity. In persecutory type, the central theme of the delusion involves the in­
+dividual's belief of being conspired against, cheated, spied on, followed, poisoned, mali­
+ciously maligned, harassed, or obstructed in the pursuit of long-term goals. Small slights
+may be exaggerated and become the focus of a delusional system. The affected individual
+may engage in repeated attempts to obtain satisfaction by legal or legislative action. Indi­
+viduals with persecutory delusions are often resentful and angry and may resort to vio­
+lence against those they believe are hurting them. In somatic type, the central theme of the
+delusion involves bodily functions or sensations. Somatic delusions can occur in several
+forms. Most common is the belief that the individual emits a foul odor; that there is an in­
+festation of insects on or in the skin; that there is an internal parasite; that certain parts of
+the body are misshapen or ugly; or that parts of the body are not functioning.
+
+Diagnostic Features
+The essential feature of delusional disorder is the presence of one or more delusions that
+persist for at least 1 month (Criterion A). A diagnosis of delusional disorder is not given if
+the individual has ever had a symptom presentation that met Criterion A for schizophre­
+nia (Criterion B). Apart from the direct impact of the delusions, impairments in psychoso­
+cial functioning may be more circumscribed than those seen in other psychotic disorders
+such as schizophrenia, and behavior is not obviously bizarre or odd (Criterion C). If mood
+episodes occur concurrently with the delusions, the total duration of these mood episodes
+is brief relative to the total duration of the delusional periods (Criterion D). The delusions
+are not attributable to the physiological effects of a substance (e.g., cocaine) or another
+medical condition (e.g., Alzheimer's disease) and are not better explained by another men­
+tal disorder, such as body dysmorphic disorder or obsessive-compulsive disorder (Crite­
+rion E).
+    In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+Associated Features Supporting Diagnosis
+Social, marital, or work problems can result from the delusional beliefs of delusional dis­
+order. Individuals with delusional disorder may be able to factually describe that others
+view their beliefs as irrational but are unable to accept this themselves (i.e., there may be
+"factual insight" but no true insight). Many individuals develop irritable or dysphoric
+mood, which can usually be understood as a reaction to their delusional beliefs. Anger and
+violent behavior can occur with persecutory, jealous, and érotomanie types. The individ­
+ual may engage in htigious or antagonistic behavior (e.g., sending hundreds of letters of
+protest to the government). Legal difficulties can occur, particularly in jealous and éroto­
+manie types.
+
+Prevaience
+The lifetime prevalence of delusional disorder has been estimated at around 0.2%, and the
+most frequent subtype is persecutory. Delusional disorder, jealous type, is probably more
+common in males than in females, but there are no major gender differences in the overall
+frequency of delusional disorder.
+
+Deveiopment and Course
+On average, global function is generally better than that observed in schizophrenia. Al­
+though the diagnosis is generally stable, a proportion of individuals go on to develop
+schizophrenia. Delusional disorder has a significant familial relationship with both
+schizophrenia and schizotypal personality disorder. Although it can occur in younger age
+groups, the condition may be more prevalent in older individuals.
+
+Culture-Related Diagnostic Issues
+An individual's cultural and religious background must be taken into account in evaluat­
+ing the possible presence of delusional disorder. The content of delusions also varies
+across cultural contexts.
+
+Functional Consequences of Delusional Disorder
+The functional impairment is usually more circumscribed than that seen with other psy­
+chotic disorders, although in some cases, the impairment may be substantial and include
+poor occupational functioning and social isolation. When poor psychosocial functioning is
+present, delusional beliefs themselves often play a significant role. A common character­
+istic of individuals with delusional disorder is the apparent normality of their behavior
+and appearance when their delusional ideas are not being discussed or acted on.
+
+Differential Diagnosis
+Obsessive-compulsive and related disorders. If an individual with obsessive-compul­
+sive disorder is completely convinced that his or her obsessive-compulsive disorder beliefs
+are true, then the diagnosis of obsessive-compulsive disorder, with absent insight/delu­
+sional beliefs specifier, should be given rather than a diagnosis of delusional disorder.
+Similarly, if an individual with body dysmorphic disorder is completely convinced that
+his or her body dysmorphic disorder beliefs are true, then the diagnosis of body dysmor­
+phic disorder, with absent insight/delusional beliefs specifier, should be given rather than
+a diagnosis of delusional disorder.
+Delirium, major neurocognitive disorder, psychotic disorder due to another medical con­
+dition, and substance/medication-induced psychotic disorder. Individuals with these
+disorders may present with symptoms that suggest delusional disorder. For example, sim­
+ple persecutory delusions in the context of major neurocognitive disorder would be di­
+agnosed as major neurocognitive disorder, with behavioral disturbance. A substance/
+medication-induced psychotic disorder cross-sectionally may be identical in symptom­
+atology to delusional disorder but can be distinguished by the chronological relationship
+of substance use to the onset and remission of the delusional beliefs.
+Schizophrenia and schizophreniform disorder. Delusional disorder can be distinguished
+from schizophrenia and schizophreniform disorder by the absence of the other character­
+istic symptoms of the active phase of schizophrenia.
+Depressive and bipolar disorders and schizoaffective disorder. These disorders may
+be distinguished from delusional disorder by the temporal relationship between the mood
+disturbance and the delusions and by the severity of the mood symptoms. If delusions oc­
+cur exclusively during mood episodes, the diagnosis is depressive or bipolar disorder with
+psychotic features. Mood symptoms that meet full criteria for a mood episode can be su­
+perimposed on delusional disorder. Delusional disorder can be diagnosed only if the total
+duration of all mood episodes remains brief relative to the total duration of the delusional
+disturbance. If not, then a diagnosis of other specified or unspecified schizophrenia spec­
+trum and other psychotic disorder accompanied by other specified depressive disorder,
+unspecified depressive disorder, other specified bipolar and related disorder, or unspeci­
+fied bipolar and related disorder is appropriate.
+                                             Brief Psychotic Disorder
+Diagnostic Criteria                                                          298.8 (F23)
+A. Presence of one (or more) of the following symptoms. At least one of these must be
+   (1), (2), or (3):
+   1.   Delusions.
+   2.   Hallucinations.
+   3.   Disorganized speech (e.g., frequent derailment or incoherence).
+   4.   Grossly disorganized or catatonic behavior.
+   Note: Do not include a symptom if it is a culturally sanctioned response.
+B. Duration of an episode of the disturbance is at least 1 day but less than 1 month, with
+   eventual full return to premorbid level of functioning.
+C. The disturbance is not better explained by major depressive or bipolar disorder with
+   psychotic features or another psychotic disorder such as schizophrenia or catatonia,
+   and is not attributable to the physiological effects of a substance (e.g., a drug of abuse,
+   a medication) or another medical condition.
+Specify if:
+   With marked stressor(s) (brief reactive psychosis): If symptoms occur in response to
+   events that, singly or together, would be markedly stressful to almost anyone in similar
+   circumstances in the individual’s culture.
+   Without marited stressor(s): If symptoms do not occur in response to events that,
+   singly or together, would be markedly stressful to almost anyone in similar circum­
+   stances in the individual’s culture.
+   With postpartum onset: If onset is during pregnancy or within 4 weeks postpartum.
+Specify if:
+   With catatonia (refer to the criteria for catatonia associated with another mental dis­
+   order, pp. 119-120, for definition)
+        Coding note: Use additional code 293.89 (F06.1) catatonia associated with brief
+        psychotic disorder to indicate the presence of the comorbid catatonia.
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, disorganized speech, abnormal psychomotor be­
+   havior, and negative symptoms. Each of these symptoms may be rated for its current
+   severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+   to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+   Severity in the chapter “Assessment Measures.”)
+   Note: Diagnosis of brief psychotic disorder can be made without using this severity
+   specifier._____________________________________________________________
+
+
+Diagnostic Features
+The essential feature of brief psychotic disorder is a disturbance that involves the sudden
+onset of at least one of the following positive psychotic symptoms: delusions, hallucina­
+tions, disorganized speech (e.g., frequent derailment or incoherence), or grossly abnormal
+psychomotor behavior, including catatonia (Criterion A). Sudden onset is defined as
+change from a nonpsychotic state to a clearly psychotic state within 2 weeks, usually with­
+out a prodrome. An episode of the disturbance lasts at least 1 day but less than 1 month,
+and the individual eventually has a full return to the premorbid level of functioning (Cri­
+terion B). The disturbance is not better explained by a depressive or bipolar disorder with
+psychotic features, by schizoaffective disorder, or by schizophrenia and is not attributable
+to the physiological effects of a substance (e.g., a hallucinogen) or another medical condi­
+tion (e.g., subdural hematoma) (Criterion C).
+    In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+Associated Features Supporting Diagnosis
+Individuals with brief psychotic disorder typically experience emotional turmoil or over­
+whelming confusion. They may have rapid shifts from one intense affect to another.
+Although the disturbance is brief, the level of impairment may be severe, and supervision
+may be required to ensure that nutritional and hygienic needs are met and that the indi­
+vidual is protected from the consequences of poor judgment, cognitive impairment, or act­
+ing on the basis of delusions. There appears to be an increased risk of suicidal behavior,
+particularly during the acute episode.
+
+Prevaience
+In the United States, brief psychotic disorder may account for 9% of cases of first-onset
+psychosis. Psychotic disturbances that meet Criteria A and C, but not Criterion B, for brief
+psychotic disorder (i.e., duration of active symptoms is 1-6 months as opposed to remis­
+sion within 1 month) are more common in developing countries than in developed coun­
+tries. Brief psychotic disorder is twofold more common in females than in males.
+
+Deveiopment and Course
+Brief psychotic disorder may appear in adolescence or early adulthood, and onset can oc­
+cur across the lifespan, with the average age at onset being the mid 30s. By definition, a
+diagnosis of brief psychotic disorder requires a full remission of all symptoms and an
+eventual full return to the premorbid level of functioning within 1 month of the onset of the
+disturbance. In some individuals, the duration of psychotic symptoms may be quite brief
+(e.g., a few days).
+
+Risic and Prognostic Factors
+Temperamental. Preexisting personality disorders and traits (e.g., schizotypal person­
+ality disorder; borderline personality disorder; or traits in the psychoticism domain, such
+as perceptual dysregulation, and the negative affectivity domain, such as suspiciousness)
+may predispose the individual to the development of the disorder.
+
+Cuiture-Reiated Diagnostic issues
+It is important to distinguish symptoms of brief psychotic disorder from culturally sanc­
+tioned response patterns. For example, in some religious ceremonies, an individual may
+report hearing voices, but these do not generally persist and are not perceived as abnormal
+by most members of the individual's community. In addition, cultural and religious back­
+ground must be taken into account when considering whether beliefs are delusional.
+
+Functionai Consequences of Brief Psycliotic Disorder
+Despite high rates of relapse, for most individuals, outcome is excellent in terms of social
+functioning and symptomatology.
+Differential Diagnosis
+Other medical conditions. A variety of medical disorders can manifest with psychotic
+symptoms of short duration. Psychotic disorder due to another medical condition or a de­
+lirium is diagnosed when there is evidence from the history, physical examination, or lab­
+oratory tests that the delusions or hallucinations are the direct physiological consequence
+of a specific medical condition (e.g., Cushing's syndrome, brain tumor) (see 'Tsychotic
+Disorder Due to Another Medical Condition" later in this chapter).
+Substance-related disorders. Substance/medication-induced psychotic disorder, sub­
+stance-induced delirium, and substance intoxication are distinguished from brief psychotic
+disorder by the fact that a substance (e.g., a drug of abuse, a medication, exposure to a toxin)
+is judged to be etiologically related to the psychotic symptoms (see ''Substance/Medication-
+Induced Psychotic Disorder" later in this chapter). Laboratory tests, such as a urine drug
+screen or a blood alcohol level, may be helpful in making this determination, as may a care­
+ful history of substance use with attention to temporal relationships between substance in­
+take and onset of the symptoms and to the nature of the substance being used.
+Depressive and bipolar disorders. The diagnosis of brief psychotic disorder cannot be
+made if the psychotic symptoms are better explained by a mood episode (i.e., the psychotic
+symptoms occur exclusively during a full major depressive, manic, or mixed episode).
+Other psychotic disorders. If the psychotic symptoms persist for 1 month or longer, the
+diagnosis is either schizophreniform disorder, delusional disorder, depressive disorder
+with psychotic features, bipolar disorder with psychotic features, or other specified or un­
+specified schizophrenia spectrum and other psychotic disorder, depending on the other
+symptoms in the presentation. The differential diagnosis between brief psychotic disorder
+and schizophreniform disorder is difficult when the psychotic symptoms have remitted be­
+fore 1 month in response to successful treatment with medication. Careful attention should
+be given to the possibility that a recurrent disorder (e.g., bipolar disorder, recurrent acute ex­
+acerbations of schizophrenia) may be responsible for any recurring psychotic episodes.
+Malingering and factitious disorders. An episode of factitious disorder, with predomi­
+nantly psychological signs and symptoms, may have the appearance of brief psychotic
+disorder, but in such cases there is evidence that the symptoms are intentionally produced.
+When malingering involves apparently psychotic symptoms, there is usually evidence
+that the illness is being feigned for an understandable goal.
+Personality disorders. In certain individuals with personality disorders, psychosocial
+stressors may precipitate brief periods of psychotic symptoms. These symptoms are usu­
+ally transient and do not warrant a separate diagnosis. If psychotic symptoms persist for at
+least 1 day, an additional diagnosis of brief psychotic disorder may be appropriate.
+
+
+                                          Schizophreniform Disorder
+Diagnostic Criteria                                                      295.40 (F20.81)
+A. Two (or more) of the following, each present for a significant portion of time during a
+   1-month period (or less if successfully treated). At least one of these must be (1), (2),
+   or (3):
+    1.   Delusions.
+    2.   Hallucinations.
+    3.   Disorganized speech (e.g., frequent derailment or incoherence).
+    4.   Grossly disorganized or catatonic behavior.
+    5.   Negative symptoms (i.e., diminished emotional expression or avolition).
+B. An episode of the disorder lasts at least 1 month but less than 6 months. When the
+   diagnosis must be made without waiting for recovery, it should be qualified as “provi­
+   sional.”      '
+C. Schizoaffective disorder and depressive or bipolar disorder with psychotic features have
+   been ruled out because either 1) no major depressive or manic episodes have occurred
+   concurrently with the active-phase symptoms, or 2) if mood episodes have occurred dur­
+   ing active-phase symptoms, they have been present for a minority of the total duration
+   of the active and residual periods of the illness.
+D. The disturbance is not attributable to the physiological effects of a substance (e.g., a
+   drug of abuse, a medication) or another medical condition.
+Specify if:
+   With good prognostic features: This specifier requires the presence of at least two
+   of the following features: onset of prominent psychotic symptoms within 4 weeks of the
+   first noticeable change in usual behavior or functioning; confusion or perplexity: good
+   premorbid social and occupational functioning; and absence of blunted or flat affect.
+   W ithout good prognostic features: This specifier is applied if two or more of the
+   above features have not been present.
+Specify if:
+   With catatonia (refer to the criteria for catatonia associated with another mental disor­
+   der, pp. 119-120, for definition).
+       Coding note: Use additional code 293.89 (F06.1) catatonia associated with schizo­
+       phreniform disorder to indicate the presence of the comorbid catatonia.
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, disorganized speech, abnormal psychomotor be­
+   havior, and negative symptoms. Each of these symptoms may be rated for its current
+   severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+   to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+   Severity in the chapter “Assessment Measures.”)
+   Note: Diagnosis of schizophreniform disorder can be made without using this severity
+   specifier.
+
+Note: For additional information on Associated Features Supporting Diagnosis, Develop­
+ment and Course (age-related factors), Culture-Related Diagnostic Issues, Gender-Related
+Diagnostic Issues, Differential Diagnosis, and Comorbidity, see the corresponding sec­
+tions in schizophrenia.
+
+Diagnostic Features
+The characteristic symptoms of schizophreniform disorder are identical to those of schizo­
+phrenia (Criterion A). Schizophreniform disorder is distinguished by its difference in du­
+ration: the total duration of the illness, including prodromal, active, and residual phases, is
+at least 1 month but less than 6 months (Criterion B). The duration requirement for schizo­
+phreniform disorder is intermediate between that for brief psychotic disorder, which lasts
+more than 1 day and remits by 1 month, and schizophrenia, which lasts for at least 6 months.
+The diagnosis of schizophreniform disorder is made under two conditions. 1) when an ep­
+isode of illness lasts between 1 and 6 months and the individual has already recovered,
+and 2) when an individual is symptomatic for less than the 6 months' duration required for
+the diagnosis of schizophrenia but has not yet recovered. In this case, the diagnosis should
+be noted as "schizophreniform disorder (provisional)" because it is uncertain if the indi­
+vidual will recover from the disturbance within the 6-month period. If the disturbance per­
+sists beyond 6 months, the diagnosis should be changed to schizophrenia.
+    Another distinguishing feature of schizophreniform disorder is the lack of a criterion
+requiring impaired social and occupational functioning. While such impairments may po­
+tentially be present, they are not necessary for a diagnosis of schizophreniform disorder.
+    In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+Associated Features Supporting Diagnosis
+As with schizophrenia, currently there are no laboratory or psychometric tests for schizo­
+phreniform disorder. There are multiple brain regions where neuroimaging, neuropa-
+thological, and neurophysiological research has indicated abnormalities, but none are
+diagnostic.
+
+Prevaience
+Incidence of schizophreniform disorder across sociocultural settings is likely similar to
+that observed in schizophrenia. In the United States and other developed countries, the in­
+cidence is low, possibly fivefold less than that of schizophrenia. In developing countries,
+the incidence may be higher, especially for the specifier ''with good prognostic features";
+in some of these settings schizophreniform disorder may be as common as schizophrenia.
+
+Deveiopment and Course
+The development of schizophreniform disorder is similar to that of schizophrenia. About
+one-third of individuals with an initial diagnosis of schizophreniform disorder (provi­
+sional) recover within the 6-month period and schizophreniform disorder is their final di­
+agnosis. The majority of the remaining two-thirds of individuals will eventually receive a
+diagnosis of schizophrenia or schizoaffective disorder.
+
+Risic and Prognostic Factors
+Genetic and physiological. Relatives of individuals with schizophreniform disorder
+have an increased risk for schizophrenia.
+
+Functionai Consequences of
+Sciiizophreniform Disorder
+For the majority of individuals with schizophreniform disorder who eventually receive a
+diagnosis of schizophrenia or schizoaffective disorder, the functional consequences are
+similar to the consequences of those disorders. Most individuals experience dysfunction in
+several areas of daily functioning, such as school or work, interpersonal relationships, and
+self-care. Individuals who recover from schizophreniform disorder have better functional
+outcomes.
+
+Differentiai Diagnosis
+Other mental disorders and medical conditions. A wide variety of mental and medical
+conditions can manifest with psychotic symptoms that must be considered in the differ­
+ential diagnosis of schizophreniform disorder. These include psychotic disorder due to
+another medical condition or its treatment; delirium or major neurocognitive disorder;
+substance/medication-induced psychotic disorder or delirium; depressive or bipolar
+disorder with psychotic features; schizoaffective disorder; other specified or unspecified bi­
+polar and related disorder; depressive or bipolar disorder with catatonic features; schizophre-
+nia; brief psychotic disorder; delusional disorder; other specified or unspecified schizo­
+phrenia spectrum and other psychotic disorder; schizotypal, schizoid, or paranoid
+personality disorders; autism spectrum disorder; disorders presenting in childhood with
+disorganized speech; attention-deficit/hyperactivity disorder; obsessive-compulsive dis­
+order; posttraumatic stress disorder; and traumatic brain injury.
+    Since the diagnostic criteria for schizophreniform disorder and schizophrenia differ
+primarily in duration of illness, the discussion of the differential diagnosis of schizophre­
+nia also applies to schizophreniform disorder.
+Brief psychotic disorder. Schizophreniform disorder differs in duration from brief psy­
+chotic disorder, which has a duration of less than 1 month.
+
+
+                                                                      Schizophrenia
+Diagnostic Criteria                                                           295.90 (F20.9)
+A. Two (or more) of the following, each present for a significant portion of time during a
+   1-month period (or less if successfully treated). At least one of these must be (1 ), (2), or (3):
+   1.   Delusions.
+   2.   Hallucinations.
+   3.   Disorganized speech (e.g., frequent derailment or incoherence).
+   4.   Grossly disorganized or catatonic behavior.
+   5.   Negative symptoms (i.e., diminished emotional expression or avolition).
+B. For a significant portion of the time since the onset of the disturbance, level of function­
+   ing in one or more major areas, such as work, interpersonal relations, or self-care, is
+   markedly below the level achieved prior to the onset (or when the onset is in childhood
+   or adolescence, there is failure to achieve expected level of interpersonal, academic,
+   or occupational functioning).
+C. Continuous signs of the disturbance persist for at least 6 months. This 6-month period
+   must include at least 1 month of symptoms (or less if successfully treated) that meet Cri­
+   terion A (i.e., active-phase symptoms) and may include periods of prodromal or residual
+   symptoms. During these prodromal or residual periods, the signs of the disturbance may
+   be manifested by only negative symptoms or by two or more symptoms listed in Criterion
+   A present in an attenuated form (e.g., odd beliefs, unusual perceptual experiences).
+D. Schizoaffective disorder and depressive or bipolar disorder with psychotic features
+   have been ruled out because either 1) no major depressive or manic episodes have
+   occurred concurrently with the active-phase symptoms, or 2) if mood episodes have
+   occurred during active-phase symptoms, they have been present for a minority of the
+   total duration of the active and residual periods of the illness.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g., a
+   drug of abuse, a medication) or another medical condition.
+F. If there is a history of autism spectrum disorder or a communication disorder of child­
+   hood onset, the additional diagnosis of schizophrenia is made only if prominent delu­
+   sions or hallucinations, in addition to the other required symptoms of schizophrenia,
+   are also present for at least 1 month (or less if successfully treated).
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the disorder
+and if they are not in contradiction to the diagnostic course criteria.
+   First episode, currently in acute episode: First manifestation of the disorder meet­
+   ing the defining diagnostic symptom and time criteria. An acute episode is a time pe­
+   riod in which the symptom criteria are fulfilled.
+   First episode, currently in partial remission: Partial remission is a period of time
+   during which an improvement after a previous episode is maintained and in which the
+   defining criteria of the disorder are only partially fulfilled.
+   First episode, currently in full remission: Full remission is a period of time after a
+   previous episode during which no disorder-specific symptoms are present.
+   Multiple episodes, currently in acute episode: Multiple episodes may be deter­
+   mined after a minimum of two episodes (i.e., after a first episode, a remission and a
+   minimum of one relapse).
+   ■Multiple episodes, currently in partial remission
+   Multiple episodes, currently in full remission
+   Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder are
+   remaining for the majority of the illness course, with subthreshold symptom periods be­
+   ing very brief relative to the overall course.
+   Unspecified
+Specify if:
+   With catatonia (refer to the criteria for catatonia associated with another mental disorder,
+   pp. 119-120, for definition).
+       Coding note: Use additional code 293.89 (F06.1) catatonia associated with
+       schizophrenia to indicate the presence of the comorbid catatonia.
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, disorganized speech, abnormal psychomotor be­
+   havior, and negative symptoms. Each of these symptoms may be rated for its current
+   severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+   to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+   Severity in the chapter “Assessment Measures.”)
+   Note: Diagnosis of schizophrenia can be made without using this severity specifier.
+
+
+Diagnostic Features
+The characteristic symptoms of schizophrenia involve a range of cognitive, behavioral, and
+emotional dysfunctions, but no single symptom is pathognomonic of the disorder. The di­
+agnosis involves the recognition of a constellation of signs and symptoms associated with
+impaired occupational or social functioning. Individuals with the disorder will vary sub­
+stantially on most features, as schizophrenia is a heterogeneous clinical syndrome.
+    At least two Criterion A symptoms must be present for a significant portion of time
+during a 1-month period or longer. At least one of these symptoms must be the clear pres­
+ence of delusions (Criterion Al), hallucinations (Criterion A2), or disorganized speech
+(Criterion A3). Grossly disorganized or catatonic behavior (Criterion A4) and negative
+symptoms (Criterion A5) may also be present. In those situations in which the active-
+phase symptoms remit within a month in response to treatment. Criterion A is still met if the
+clinician estimates that they would have persisted in the absence of treatment.
+    Schizophrenia involves impairment in one or more major areas of functioning (Crite­
+rion B). If the disturbance begins in childhood or adolescence, the expected level of func­
+tion is not attained. Comparing the individual with unaffected siblings may be helpful. The
+dysfunction persists for a substantial period during the course of the disorder and does not
+appear to be a direct result of any single feature. Avolition (i.e., reduced drive to pursue
+goal-directed behavior; Criterion A5) is linked to the social dysfunction described under
+Criterion B. There is also strong evidence for a relationship between cognitive impairment
+(see the section "Associated Features Supporting Diagnosis" for this disorder) and func­
+tional impairment in individuals with schizophrenia.
+    Some signs of the disturbance must persist for a continuous period of at least 6 months
+(Criterion C). Pi;odromal symptoms often precede the active phase, and residual symp­
+toms may follow it, characterized by mild or subthreshold forms of hallucinations or
+delusions. Individuals may express a variety of unusual or odd beliefs that are not of de­
+lusional proportions (e.g., ideas of reference or magical thinking); they may have unusual
+perceptual experiences (e.g., sensing the presence of an unseen person); their speech may
+be generally understandable but vague; and their behavior may be unusual but not grossly
+disorganized (e.g., mumbling in public). Negative symptoms are common in the pro­
+dromal and residual phases and can be severe. Individuals who had been socially active
+may become withdrawn from previous routines. Such behaviors are often the first sign of
+a disorder.
+    Mood symptoms and full mood episodes are common in schizophrenia and may be con­
+current with active-phase symptomatology. However, as distinct from a psychotic mood dis­
+order, a schizophrenia diagnosis requires the presence of delusions or hallucinations in the
+absence of mood episodes. In addition, mood episodes, taken in total, should be present for
+only a minority of the total duration of the active and residual periods of the illness.
+    In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+
+Associated Features Supporting Diagnosis
+Individuals with schizophrenia may display inappropriate affect (e.g., laughing in the ab­
+sence of an appropriate stimulus); a dysphoric mood that can take the form of depression,
+anxiety, or anger; a disturbed sleep pattern (e.g., daytime sleeping and nighttime activity);
+and a lack of interest in eating or food refusal. Depersonalization, derealization, and so­
+matic concerns may occur and sometimes reach delusional proportions. Anxiety and pho­
+bias are common. Cognitive deficits in schizophrenia are conrmion and are strongly linked
+to vocational and functional impairments. These deficits can include decrements in declar­
+ative memory, working memory, language function, and other executive functions, as well
+as slower processing speed. Abnormalities in sensory processing and inhibitory capacity,
+as well as reductions in attention, are also found. Some individuals with schizophrenia
+show social cognition deficits, including deficits in the ability to infer the intentions of
+other people (theory of mind), and may attend to and then inteφret irrelevant events or
+stimuli as meaningful, perhaps leading to the generation of explanatory delusions. These
+impairments frequently persist during symptomatic remission.
+    Some individuals with psychosis may lack insight or awareness of their disorder (i.e.,
+anosognosia). This lack of "'insight" includes unawareness of symptoms of schizophrenia
+and may be present throughout the entire course of the illness. Unawareness of illness is
+typically a symptom of schizophrenia itself rather than a coping strategy. It is comparable
+to the lack of awareness of neurological deficits following brain damage, termed anoso­
+gnosia. This symptom is the most common predictor of non-adherence to treatment, and it
+predicts higher relapse rates, increased number of involuntary treatments, poorer psycho­
+social functioning, aggression, and a poorer course of illness.
+    Hostility and aggression can be associated with schizophrenia, although spontaneous
+or random assault is uncommon. Aggression is more frequent for younger males and for
+individuals with a past history of violence, non-adherence with treatment, substance
+abuse, and impulsivity. It should be noted that the vast majority of persons with schizo­
+phrenia are not aggressive and are more frequently victimized than are individuals in the
+general population.
+    Currently, there are no radiological, laboratory, or psychometric tests for the disorder.
+Differences are evident in multiple brain regions between groups of healthy individuals
+and persons with schizophrenia, including evidence from neuroimaging, neuropatholog-
+ical, and neurophysiological studies. Differences are also evident in cellular architecture,
+white matter connectivity, and gray matter volume in a variety of regions such as the pre-
+frontal and temporal cortices. Reduced overall brain volume has been observed, as well as
+increased brain volume reduction with age. Brain volume reductions with age are more
+pronounced in individuals with schizophrenia than in healthy individuals. Finally, indi­
+viduals with schizophrenia appear to differ from individuals without the disorder in eye-
+tracking and electrophysiological indices.
+    Neurological soft signs common in individuals with schizophrenia include impairments
+in motor coordination, sensory integration, and motor sequencing of complex movements;
+left-right confusion; and disinhibition of associated movements. In addition, minor phys­
+ical anomalies of the face and limbs may occur.
+
+Prevalence
+The lifetime prevalence of schizophrenia appears to be approximately 0.3%-0.7%, al­
+though there is reported variation by race/ethnicity, across countries, and by geographic
+origin for immigrants and children of immigrants. The sex ratio differs across samples and
+populations: for example, an emphasis on negative symptoms and longer duration of dis­
+order (associated with poorer outcome) shows higher incidence rates for males, whereas
+definitions allowing for the inclusion of more mood symptoms and brief presentations
+(associated with better outcome) show equivalent risks for both sexes.
+
+Development and Course
+The psychotic features of schizophrenia typically emerge between the late teens and the
+mid-30s; onset prior to adolescence is rare. The peak age at onset for the first psychotic ep­
+isode is in the early- to mid-20s for males and in the late-20s for females. The onset may be
+abrupt or insidious, but the majority of individuals manifest a slow and gradual develop­
+ment of a variety of clinically significant signs and symptoms. Half of these individuals
+complain of depressive symptoms. Earlier age at onset has traditionally been seen as a pre­
+dictor of worse prognosis. However, the effect of age at onset is likely related to gender,
+with males having worse premorbid adjustment, lower educational achievement, more
+prominent negative symptoms and cognitive impairment, and in general a worse out­
+come. Impaired cognition is common, and alterations in cognition are present during de­
+velopment and precede the emergence of psychosis, taking the form of stable cognitive
+impairments during adulthood. Cognitive impairments may persist when other symptoms
+are in remission and contribute to the disability of the disease.
+    The predictors of course and outcome are largely unexplained, and course and outcome
+may not be reliably predicted. The course appears to be favorable in about 20% of those
+with schizophrenia, and a small number of individuals are reported to recover completely.
+However, most individuals with schizophrenia still require formal or informal daily living
+supports, and many remain chronically ill, with exacerbations and remissions of active
+symptoms, while others have a course of progressive deterioration.
+    Psychotic symptoms tend to diminish over the life course, perhaps in association with
+normal age-related declines in dopamine activity. Negative symptoms are more closely re­
+lated to prognosis than are positive symptoms and tend to be the most persistent. Further­
+more, cognitive deficits associated with the illness may not improve over the course of the
+illness.
+    The essential features of schizophrenia are the same in childhood, but it is more diffi­
+cult to make the diagnosis. In children, delusions and hallucinations may be less elaborate
+than in adults, and visual hallucinations are more common and should be distinguished
+from normal fantasy play. Disorganized speech occurs in many disorders with childhood
+onset (e.g., autism spectrum disorder), as does disorganized behavior (e.g., attention-deficit/
+hyperactivity disorder). These symptoms should not be attributed to schizophrenia with­
+out due consideration of the more common disorders of childhood. Childhood-onset cases
+tend to resemble poor-outcome adult cases, with gradual onset and prominent negative
+symptoms. Children who later receive the diagnosis of schizophrenia are more likely to
+have experienced nonspecific emotional-behavioral disturbances and psychopathology,
+intellectual and language alterations, and subtle motor delays.
+    Late-onset cases (i.e., onset after age 40 years) are overrepresented by females, who
+may have married. Often, the course is characterized by a predominance of psychotic
+symptoms with preservation of affect and social functioning. Such late-onset cases can still
+meet the diagnostic criteria for schizophrenia, but it is not yet clear whether this is the
+same condition as schizophrenia diagnosed prior to mid-life (e.g., prior to age 55 years).
+
+Risk and Prognostic Factors
+Environmental. Season of birth has been linked to the incidence of schizophrenia, in­
+cluding late winter/early spring in some locations and summer for the deficit form of the
+disease. The incidence of schizophrenia and related disorders is higher for children grow­
+ing up in an urban environment and for some minority ethnic groups.
+Genetic and physiological. There is a strong contribution for genetic factors in deter­
+mining risk for schizophrenia, although most individuals who have been diagnosed with
+schizophrenia have no family history of psychosis. Liability is conferred by a spectrum of
+risk alleles, common and rare, with each allele contributing only a small fraction to the to­
+tal population variance. The risk alleles identified to date are also associated with other
+mental disorders, including bipolar disorder, depression, and autism spectrum disorder.
+    Pregnancy and birth complications with hypoxia and greater paternal age are associated
+with a higher risk of schizophrenia for the developing fetus. In addition, other prenatal
+and perinatal adversities, including stress, infection, malnutrition, maternal diabetes, and
+other medical conditions, have been linked with schizophrenia. However, the vast major­
+ity of offspring with these risk factors do not develop schizophrenia.
+
+Culture-Related Diagnostic Issues
+Cultural and socioeconomic factors must be considered, particularly when the individual
+and the clinician do not share the same cultural and socioeconomic background. Ideas that
+appear to be delusional in one culture (e.g., witchcraft) may be commonly held in another.
+In some cultures, visual or auditory hallucinations with a religious content (e.g., hearing
+God's voice) are a normal part of religious experience. In addition, the assessment of dis­
+organized speech may be made difficult by linguistic variation in narrative styles across
+cultures. The assessment of affect requires sensitivity to differences in styles of emotional
+expression, eye contact, and body language, which vary across cultures. If the assessment
+is conducted in a language that is different from the individual's primary language, care
+must be taken to ensure that alogia is not related to linguistic barriers. In certain cultures,
+distress may take the form of hallucinations or pseudo-hallucinations and overvalued
+ideas that may present clinically similar to true psychosis but are normative to the pa­
+tient's subgroup.
+
+Gender-Related Diagnostic Issues
+A number of features distinguish the clinical expression of schizophrenia in females and
+males. The general incidence of schizophrenia tends to be slightly lower in females, par­
+ticularly among treated cases. The age at onset is later in females, with a second mid-life
+peak as described earlier (see the section "Development and Course" for this disorder).
+Symptoms tend to be more affect-laden among females, and there are more psychotic
+symptoms, as well as a greater propensity for psychotic symptoms to worsen in later life.
+Other symptom differences include less frequent negative symptoms and disorganization.
+Finally, social functioning tends to remain better preserved in females. There are, how­
+ever, frequent exceptions to these general caveats.
+
+Suicide Risic
+Approximately 5%-6% of individuals with schizophrenia die by suicide, about 20% attempt
+suicide on one or more occasions, and many more have significant suicidal ideation. Suicidal
+behavior is sometimes in response to command hallucinations to harm oneself or others.
+Suicide risk remains high over the whole lifespan for males and females, although it may be
+especially high for younger males with comorbid substance use. Other risk factors include
+having depressive symptoms or feelings of hopelessness and being unemployed, and the
+risk is higher, also, in the period after a psychotic episode or hospital discharge.
+
+Functional Consequences of Schizoplirenia
+Schizophrenia is associated with significant social and occupational dysfunction. Making
+educational progress and maintaining employment are frequently impaired by avolition
+or other disorder manifestations, even when the cognitive skills are sufficient for the tasks
+at hand. Most individuals are employed at a lower level than their parents, and most, par­
+ticularly men, do not marry or have limited social contacts outside of their family.
+
+Differential Diagnosis
+Major depressive or bipolar disorder with psychotic or catatonic features. The distinc­
+tion between schizophrenia and major depressive or bipolar disorder with psychotic
+features or with catatonia depends on the temporal relationship between the mood distur­
+bance and the psychosis, and on the severity of the depressive or manic symptoms. If de­
+lusions or hallucinations occur exclusively during a major depressive or manic episode,
+the diagnosis is depressive or bipolar disorder with psychotic features.
+Schizoaffective disorder. A diagnosis of schizoaffective disorder requires that a major
+depressive or manic episode occur concurrently with the active-phase symptoms and that
+the mood symptoms be present for a majority of the total duration of the active periods.
+Schizophreniform disorder and brief psychotic disorder. These disorders are of shorter
+duration than schizophrenia as specified in Criterion C, which requires 6 months of symp­
+toms. In schizophreniform disorder, the disturbance is present less than 6 months, and in
+brief psychotic disorder, symptoms are present at least 1 day but less than 1 month.
+Delusional disorder. Delusional disorder can be distinguished from schizophrenia by
+the absence of the other symptoms characteristic of schizophrenia (e.g., delusions, prom­
+inent auditory or visual hallucinations, disorganized speech, grossly disorganized or cata­
+tonic behavior, negative symptoms).
+Schizotypal personality disorder. Schizotypal personality disorder may be distinguished
+from schizophrenia by subthreshold symptoms that are associated with persistent person­
+ality features.
+Obsessive-compulsive disorder and body dysmorphic disorder. Individuals with
+obsessive-compulsive disorder and body dysmorphic disorder may present with poor or
+absent insight, and the preoccupations may reach delusional proportions. But these
+disorders are distinguished from schizophrenia by their prominent obsessions, compul­
+sions, preoccupations with appearance or body odor, hoarding, or body-focused repeti­
+tive behaviors.
+Posttraumatic stress disorder. Posttraumatic stress disorder may include flashbacks that
+have a hallucinatory quality, and hypervigilance may reach paranoid proportions. But a trau-
+matic event and characteristic symptom features relating to reliving or reacting to the event
+are required to make the diagnosis.
+Autism spectrum disorder or communication disorders. These disorders may also have
+symptoms resembling a psychotic episode but are distinguished by their respective defi­
+cits in social interaction with repetitive and restricted behaviors and other cognitive and
+communication deficits. An individual v^ith autism spectrum disorder or communication
+disorder must have symptoms that meet full criteria for schizophrenia, w^ith prominent
+hallucinations or delusions for at least 1 month, in order to be diagnosed with schizophre­
+nia as a comorbid condition.
+Other mental disorders associated with a psychotic episode. The diagnosis of schizo­
+phrenia is made only when the psychotic episode is persistent and not attributable to the
+physiological effects of a substance or another medical condition. Individuals with a de­
+lirium or major or minor neurocognitive disorder may present with psychotic symptoms,
+but these would have a temporal relationship to the onset of cognitive changes consistent
+with those disorders. Individuals with substance/medication-induced psychotic disorder
+may present with symptoms characteristic of Criterion A for schizophrenia, but the sub­
+stance/medication-induced psychotic disorder can usually be distinguished by the chron­
+ological relationship of substance use to the onset and remission of the psychosis in the
+absence of substance use.
+
+Comorbidity
+Rates of comorbidity with substance-related disorders are high in schizophrenia. Over
+half of individuals with schizophrenia have tobacco use disorder and smoke cigarettes
+regularly. Comorbidity with anxiety disorders is increasingly recognized in schizophre­
+nia. Rates of obsessive-compulsive disorder and panic disorder are elevated in individuals
+with schizophrenia compared with the general population. Schizotypal or paranoid per­
+sonality disorder may sometimes precede the onset of schizophrenia.
+    Life expectancy is reduced in individuals with schizophrenia because of associated
+medical conditions. Weight gain, diabetes, metabolic syndrome, and cardiovascular and
+pulmonary disease are more common in schizophrenia than in the general population.
+Poor engagement in health maintenance behaviors (e.g., cancer screening, exercise) in­
+creases the risk of chronic disease, but other disorder factors, including medications, life­
+style, cigarette smoking, and diet, may also play a role. A shared vulnerability for
+psychosis and medical disorders may explain some of the medical comorbidity of schizo­
+phrenia.
+
+
+                                             Schizoaffective Disorder
+Diagnostic Criteria
+A. An uninterrupted period of illness during which there is a major mood episode (major
+   depressive or manic) concurrent with Criterion A of schizophrenia.
+   Note: The major depressive episode must include Criterion A1 : Depressed mood.
+B. Delusions or hallucinations for 2 or more weeks in the absence of a major mood epi­
+   sode (depressive or manic) during the lifetime duration of the illness.
+C. Symptoms that meet criteria for a major mood episode are present for the majority of
+   the total duration of the active and residual portions of the illness.
+D. The disturbance is not attributable to the effects of a substance (e.g., a drug of abuse,
+   a medication) or another medical condition.
+Specify whether:
+   295.70 (F25.0) Bipolar type: This subtype applies if a manic episode is part of the pre­
+   sentation. Major depressive episodes may also occur.
+   295.70 (F25.1) Depressive type: This subtype applies if only major depressive epi­
+   sodes are part of the presentation.
+Specify if:
+   With catatonia (refer to the criteria for catatonia associated with another mental disorder,
+   pp. 119-120, for definition).
+       Coding note: Use additional code 293.89 (F06.1) catatonia associated with
+       schizoaffective disorder to indicate the presence of the comorbid catatonia.
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the disorder
+and if they are not in contradiction to the diagnostic course criteria.
+   First episode, currently in acute episode: First manifestation of the disorder meet­
+   ing the defining diagnostic symptom and time criteria. An acute episode is a time pe­
+   riod in which the symptom criteria are fulfilled.
+   First episode, currently in partial remission: Partial remission is a time period dur­
+   ing which an improvement after a previous episode is maintained and in which the de­
+   fining criteria of the disorder are only partially fulfilled.
+   First episode, currently in full remission: Full remission is a period of time after a
+   previous episode during which no disorder-specific symptoms are present.
+   Multiple episodes, currently in acute episode: Multiple episodes may be deter­
+   mined after a minimum of two episodes (i.e., after a first episode, a remission and a
+   minimum of one relapse).
+   Multiple episodes, currently in partial remission
+   Multiple episodes, currently in full remission
+   Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder are
+   remaining for the majority of the illness course, with subthreshold symptom periods be­
+   ing very brief relative to the overall course.
+   Unspecified
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, disorganized speech, abnormal psychomotor be­
+   havior, and negative symptoms. Each of these symptoms may be rated for its current
+   severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+   to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+   Severity in the chapter “Assessment Measures.”)
+   Note: Diagnosis of schizoaffective disorder can be made without using this severity
+   specifier.
+
+Note: For additional information on Development and Course (age-related factors). Risk
+and Prognostic Factors (environmental risk factors), Culture-Related Diagnostic Issues,
+and Gender-Related Diagnostic Issues, see the corresponding sections in schizophrenia,
+bipolar I and II disorders, and major depressive disorder in their respective chapters.
+
+Diagnostic Features
+The diagnosis of schizoaffective disorder is based on the assessment of an uninterrupted
+period of illness during which the individual continues to display active or residual symp­
+toms of psychotic illness. The diagnosis is usually, but not necessarily, made during the
+period of psychotic illness. At some time during the period. Criterion A for schizophrenia
+has to be met. Criteria B (social dysfunction) and F (exclusion of autism spectrum disorder
+or other commimication disorder of childhood onset) for schizophrenia do not have to be
+met. In addition to meeting Criterion A for schizophrenia, there is a major mood episode
+(major depressive or manic) (Criterion A for schizoaffective disorder). Because loss of in­
+terest or pleasure is common in schizophrenia, to meet Criterion A for schizoaffective dis­
+order, the major depressive episode must include pervasive depressed mood (i.e., the
+presence of markedly diminished interest or pleasure is not sufficient). Episodes of de­
+pression or mania are present for the majority of the total duration of the illness (i.e., after
+Criterion A has been met) (Criterion C for schizoaffective disorder). To separate schizoaf­
+fective disorder from a depressive or bipolar disorder with psychotic features, delusions
+or hallucinations must be present for at least 2 w^eeks in the absence of a major mood epi­
+sode (depressive or manic) at some point during the lifetime duration of the illness (Cri­
+terion B for schizoaffective disorder). The symptoms must not be attributable to the effects
+of a substance or another medical condition (Criterion D for schizoaffective disorder).
+    Criterion C for schizoaffective disorder specifies that mood symptoms meeting criteria
+for a major mood episode must be present for the majority of the total duration of the ac­
+tive and residual portion of the illness. Criterion C requires the assessment of mood symp­
+toms for the entire course of a psychotic illness, which differs from the criterion in DSM-IV,
+which required only an assessment of the current period of illness. If the mood symptoms
+are present for only a relatively brief period, the diagnosis is schizophrenia, not schizoaf­
+fective disorder. When deciding whether an individual's presentation meets Criterion C,
+the clinician should review the total duration of psychotic illness (i.e., both active and re­
+sidual symptoms) and determine when significant mood symptoms (untreated or in need
+of treatment with antidepressant and/or mood-stabilizing medication) accompanied the
+psychotic symptoms. This determination requires sufficient historical information and
+clinical judgment. For example, an individual with a 4-year history of active and residual
+symptoms of schizophrenia develops depressive and manic episodes that, taken together,
+do not occupy more than 1 year during the 4-year history of psychotic illness. This presen­
+tation would not meet Criterion C.
+    In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+Associated Features Supporting Diagnosis
+Occupational functioning is frequently impaired, but this is not a defining criterion (in
+contrast to schizophrenia). Restricted social contact and difficulties with self-care are as­
+sociated with schizoaffective disorder, but negative symptoms may be less severe and less
+persistent than those seen in schizophrenia. Anosognosia (i.e., poor insight) is also com­
+mon in schizoaffective disorder, but the deficits in insight may be less severe and perva­
+sive than those in schizophrenia. Individuals with schizoaffective disorder may be at
+increased risk for later developing episodes of major depressive disorder or bipolar disor­
+der if mood symptoms continue following the remission of symptoms meeting Criterion A
+for schizophrenia. There may be associated alcohol and other substance-related disorders.
+    There are no tests or biological measures that can assist in making the diagnosis of
+schizoaffective disorder. Whether schizoaffective disorder differs from schizophrenia
+with regard to associated features such as structural or functional brain abnormalities,
+cognitive deficits, or genetic risk factors is not clear.
+
+Prevalence
+Schizoaffective disorder appears to be about one-third as common as schizophrenia. Life­
+time prevalence of schizoaffective disorder is estimated to be 0.3%. The incidence of
+schizoaffective disorder is higher in females than in males, mainly due to an increased in­
+cidence of the depressive type among females.
+
+Development and Course
+The typical age at onset of schizoaffective disorder is early adulthood, although onset can
+occur anywhere from adolescence to late in life. A significant number of individuals diag­
+nosed with another psychotic illness initially will receive the diagnosis schizoaffective dis­
+order later when the pattern of mood episodes has become more apparent. With the
+current diagnostic Criterion C, it is expected that the diagnosis for some individuals will
+convert from schizoaffective disorder to another disorder as mood symptoms become less
+prominent. The prognosis for schizoaffective disorder is somewhat better than the prog­
+nosis for schizophrenia but worse than the prognosis for mood disorders.
+    Schizoaffective disorder may occur in a variety of temporal patterns. The following is
+a typical pattern: An individual may have pronounced auditory hallucinations and per­
+secutory delusions for 2 months before the onset of a prominent major depressive episode.
+The psychotic symptoms and the full major depressive episode are then present for 3 months.
+Then, the individual recovers completely from the major depressive episode, but the psy­
+chotic symptoms persist for another month before they too disappear. During this period
+of illness, the individual's symptoms concurrently met criteria for a major depressive ep­
+isode and Criterion A for schizophrenia, and during this same period of illness, auditory
+hallucinations and delusions were present both before and after the depressive phase. The
+total period of illness lasted for about 6 months, with psychotic symptoms alone present
+during the initial 2 months, both depressive and psychotic symptoms present during the
+next 3 months, and psychotic symptoms alone present during the last month. In this in­
+stance, the duration of the depressive episode was not brief relative to the total duration of
+the psychotic disturbance, and thus the presentation qualifies for a diagnosis of schizoaf­
+fective disorder.
+    The expression of psychotic symptoms across the lifespan is variable. Depressive or
+manic symptoms can occur before the onset of psychosis, during acute psychotic episodes,
+during residual periods, and after cessation of psychosis. For example, an individual
+might present with prominent mood symptoms during the prodromal stage of schizo­
+phrenia. This pattern is not necessarily indicative of schizoaffective disorder, since it is the
+co-occurrence of psychotic and mood symptoms that is diagnostic. For an individual with
+symptoms that clearly meet the criteria for schizoaffective disorder but who on further fol­
+low-up only presents with residual psychotic symptoms (such as subthreshold psychosis
+and/or prominent negative symptoms), the diagnosis may be changed to schizophrenia,
+as the total proportion of psychotic illness compared with mood symptoms becomes more
+prominent. Schizoaffective disorder, bipolar type, may be more common in young adults,
+whereas schizoaffective disorder, depressive type, may be more common in older adults.
+
+Risk and Prognostic Factors
+Genetic and physiological. Among individuals with schizophrenia, there may be an in­
+creased risk for schizoaffective disorder in first-degree relatives. The risk for schizoaffec­
+tive disorder may be increased among individuals who have a first-degree relative with
+schizophrenia, bipolar disorder, or schizoaffective disorder.
+
+Culture-Reiated Diagnostic Issues
+Cultural and socioeconomic factors must be considered, particularly when the individual
+and the clinician do not share the same cultural and economic background. Ideas that ap­
+pear to be delusional in one culture (e.g., witchcraft) may be commonly held in another.
+There is also some evidence in the literature for the overdiagnosis of schizophrenia com­
+pared with schizoaffective disorder in African American and Hispanic populations, so
+care must be tal^en to ensure a culturally appropriate evaluation that includes both psy­
+chotic and affective symptoms.
+
+Suicide Risic
+The lifetime risk of suicide for schizophrenia and schizoaffective disorder is 5%, and the
+presence of depressive symptoms is correlated w^ith a higher risk for suicide. There is ev­
+idence that suicide rates are higher in North American populations than in European,
+Eastern European, South American, and Indian populations of individuals with schizo­
+phrenia or schizoaffective disorder.
+
+Functional Consequences of Scliizoaffective Disorder
+Schizoaffective disorder is associated with social and occupational dysfunction, but dys­
+function is not a diagnostic criterion (as it is for schizophrenia), and there is substantial
+variability between individuals diagnosed with schizoaffective disorder.
+
+Differential Diagnosis
+Other mental disorders and medical conditions. A wide variety of psychiatric and med­
+ical conditions can manifest with psychotic and mood symptoms that must be considered
+in the differential diagnosis of schizoaffective disorder. These include psychotic disorder
+due to another medical condition; delirium; major neurocognitive disorder; substance/
+medication-induced psychotic disorder or neurocognitive disorder; bipolar disorders
+with psychotic features; major depressive disorder with psychotic features; depressive or
+bipolar disorders with catatonic features; schizotypal, schizoid, or paranoid personality
+disorder; brief psychotic disorder; schizophreniform disorder; schizophrenia; delusional
+disorder; and other specified and unspecified schizophrenia spectrum and other psychotic
+disorders. Medical conditions and substance use can present with a combination of psy­
+chotic and mood symptoms, and thus psychotic disorder due to another medical condition
+needs to be excluded. Distinguishing schizoaffective disorder from schizophrenia and
+from depressive and bipolar disorders with psychotic features is often difficult. Criterion
+C is designed to separate schizoaffective disorder from schizophrenia, and Criterion B is
+designed to distinguish schizoaffective disorder from a depressive or bipolar disorder
+with psychotic features. More specifically, schizoaffective disorder can be distinguished
+from a depressive or bipolar disorder with psychotic features due to the presence of prom­
+inent delusions and/or hallucinations for at least 2 weeks in the absence of a major mood
+episode. In contrast, in depressive or bipolar disorders with psychotic features, the psy­
+chotic features primarily occur during the mood episode(s). Because the relative propor­
+tion of mood to psychotic symptoms may change over time, the appropriate diagnosis
+may change from and to schizoaffective disorder (e.g., a diagnosis of schizoaffective dis­
+order for a severe and prominent major depressive episode lasting 3 months during the
+first 6 months of a persistent psychotic illness would be changed to schizophrenia if active
+psychotic or prominent residual symptoms persist over several years without a recurrence
+of another mood episode).
+Psychotic disorder due to another medical condition. Other medical conditions and
+substance use can manifest with a combination of psychotic and mood symptoms, and
+thus psychotic disorder due to another medical condition needs to be excluded.
+Schizophrenia, bipolar, and depressive disorders. Distinguishing schizoaffective dis­
+order from schizophrenia and from depressive and bipolar disorders with psychotic fea­
+tures is often difficult. Criterion C is designed to separate schizoaffective disorder from
+schizophrenia, and Criterion B is designed to distinguish schizoaffective disorder from a
+depressive or bipolar disorder with psychotic features. More specifically, schizoaffective
+disorder can be distinguished from a depressive or bipolar disorder with psychotic features
+based on the presence of prominent delusions and/or hallucinations for at least 2 weeks in
+the absence of a major mood episode. In contrast, in depressive or bipolar disorder with
+psychotic features, the psychotic features primarily occur during the mood episode(s). Be­
+cause the relative proportion of mood to psychotic symptoms may change over time, the
+appropriate diagnosis may change from and to schizoaffective disorder. (For example, a
+diagnosis of schizoaffective disorder for a severe and prominent major depressive episode
+lasting 3 months during the first 6 months of a chronic psychotic illness would be changed
+to schizophrenia if active psychotic or prominent residual symptoms persist over several
+years without a recurrence of another mood episode.)
+
+Comorbidity
+Many individuals diagnosed with schizoaffective disorder are also diagnosed with other
+mental disorders, especially substance use disorders and anxiety disorders. Similarly, the
+incidence of medical conditions is increased above base rate for the general population
+and leads to decreased life expectancy.
+
+
+                              Substance/Medication-Induced
+                                         Psychotic Disorder
+Diagnostic Criteria
+A. Presence of one or both of the following symptoms:
+   1. Delusions.
+   2. Hallucinations.
+B. There is evidence from the history, physical examination, or laboratory findings of both
+   (1)and (2):
+   1. The symptoms in Criterion A developed during or soon after substance intoxication
+      or withdrawal or after exposure to a medication.
+   2. The involved substance/medication is capable of producing the symptoms in Crite­
+      rion A.
+C. The disturbance is not better explained by a psychotic disorder that is not substance/
+   medication-induced. Such evidence of an independent psychotic disorder could in­
+   clude the following:
+       The symptoms preceded the onset of the substance/medication use; the symptoms
+       persist for a substantial period of time (e.g., about 1 month) after the cessation of
+       acute withdrawal or severe intoxication: or there is other evidence of an indepen­
+       dent non-substance/medication-induced psychotic disorder (e.g., a history of recur­
+       rent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupa­
+   tional, or other important areas of functioning.
+Note: This diagnosis should be made instead of a diagnosis of substance intoxication or
+substance withdrawal only when the symptoms in Criterion A predominate in the clinical
+picture and when they are sufficiently severe to warrant clinical attention.
+Coding note: The ICD-9-CM and ICD-10-CIVI codes for the [specific substance/medica-
+tion]-induced psychotic disorders are indicated in the table below. Note that the ICD-10-
+CM code depends on whether or not there is a comorbid substance use disorder present
+for the same class of substance. If a mild substance use disorder is comorbid with the sub­
+stance-induced psychotic disorder, the 4th position character is “1 and the clinician should
+record “mild [substance] use disorder” before the substance-induced psychotic disorder
+(e.g., “mild cocaine use disorder with cocaine-induced psychotic disorder”). If a moderate or
+severe substance use disorder is comorbid with the substance-induced psychotic disor­
+der, the 4th position character is “2,” and the clinician should record “moderate [substance]
+use disorder” or “severe [substance] use disorder,” depending on the severity of the co­
+morbid substance use disorder. If there is no comorbid substance use disorder (e.g., after
+a one-time heavy use of the substance), then the 4th position character is “9,” and the cli­
+nician should record only the substance-induced psychotic disorder.
+
+                                                                 ICD-10-CM
+
+                                                                 With use
+                                                   With use      disorder,       Without
+                                                   disorder,     moderate           use
+                                   ICD-9-CM          mild        or severe       disorder
+ Alcohol                             291.9         F10.159       FI 0.259       FI 0.959
+ Cannabis                            292.9         F12.159       FI 2.259       FI 2.959
+ Phencyclidine                       292.9         F16.159       FI 6.259       FI 6.959
+ Other hallucinogen                  292.9         FI 6.159      FI 6.259       FI 6.959
+ Inhalant                            292.9         F18.159       FI 8.259       FI 8.959
+ Sedative, hypnotic, or              292.9         FI 3.159      FI 3.259       FI 3.959
+ anxiolytic
+ Amphetamine (or other               292.9         FI 5.159      FI 5.259       FI 5.959
+ stimulant)
+ Cocaine                             292.9         F14.159       FI 4.259       FI 4.959
+ Other (or unknown) substance        292.9         FI 9.159      FI 9.259       FI 9.959
+
+Specify if (see Table 1 in the chapter “Substance-Related and Addictive Disorders” for diag­
+noses associated with substance class):
+   With onset during intoxication: If the criteria are met for intoxication with the sub­
+   stance and the symptoms develop during intoxication.
+   With onset during withdrawal: If the criteria are met for withdrawal from the sub­
+   stance and the symptoms develop during, or shortly after, withdrawal.
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, abnormal psychomotor behavior, and negative
+   symptoms. Each of these symptoms may be rated for its current severity (most severe
+   in the last 7 days) on a 5-point scale ranging from 0 (not present) to 4 (present and
+   severe). (See Clinician-Rated Dimensions of Psychosis Symptom Severity in the chap­
+   ter “Assessment Measures.”)
+   Note: Diagnosis of substance/medication-induced psychotic disorder can be made
+   without using this severity specifier.
+Recording Procedures
+ICD-9-CM. The name of the substance/medication-induced psychotic disorder begins
+with the specific substance (e.g., cocaine, dexamethasone) that is presumed to be causing
+the delusions or hallucinations. The diagnostic code is selected from the table included in
+the criteria set, which is based on the drug class. For substances that do not fit into any of
+the classes (e.g., dexamethasone), the code for ''other substance" should be used; and in
+cases in which a substance is judged to be an etiological factor but the specific class of sub­
+stance is unknown, the category "unknown substance" should be used.
+    The name of the disorder is followed by the specification of onset (i.e., onset during in­
+toxication, onset during withdrawal). Unlike the recording procedures for ICD-IO-CM,
+which combine the substance-induced disorder and substance use disorder into a single
+code, for ICD-9-CM a separate diagnostic code is given for the substance use disorder. For
+example, in the case of delusions occurring during intoxication in a man with a severe co­
+caine use disorder, the diagnosis is 292.9 cocaine-induced psychotic disorder, with onset
+during intoxication. An additional diagnosis of 304.20 severe cocaine use disorder is also
+given. When more than one substance is judged to play a significant role in the development
+of psychotic symptoms, each should be listed separately (e.g., 292.9 cannabis-induced psy­
+chotic disorder with onset during intoxication, with severe cannabis use disorder; 292.9
+phencyclidine-induced psychotic disorder, with onset during intoxication, with mild
+phencyclidine use disorder).
+ICD-10-CM. The name of the substance/medication-induced psychotic disorder begins
+with the specific substance (e.g., cocaine, dexamethasone) that is presumed to be causing
+the delusions or hallucinations. The diagnostic code is selected from the table included in
+the criteria set, which is based on the drug class and presence or absence of a comorbid
+substance use disorder. For substances that do not fit into any of the classes (e.g., dexa­
+methasone), the code for "other substance" with no comorbid substance use should be
+used; and in cases in which a substance is judged to be an etiological factor but the specific
+class of substance is unknown, the category "unknown substance" with no comorbid sub­
+stance use should be used.
+     When recording the name of the disorder, the comorbid substance use disorder (if any)
+is listed first, followed by the word "with," followed by the name of the substance-induced
+psychotic disorder, followed by the specification of onset (i.e., onset during intoxication,
+onset during withdrawal). For example, in the case of delusions occurring during intoxi­
+cation in a man with a severe cocaine use disorder, the diagnosis is F14.259 severe cocaine
+use disorder with cocaine-induced psychotic disorder, with onset during intoxication. A
+separate diagnosis of the comorbid severe cocaine use disorder is not given. If the sub­
+stance-induced psychotic disorder occurs without a comorbid substance use disorder
+(e.g., after a one-time heavy use of the substance), no accompanying substance use disor­
+der is noted (e.g., F16.959 phencyclidine-induced psychotic disorder, with onset during in­
+toxication). When more than one substance is judged to play a significant role in the
+development of psychotic symptoms, each should be listed separately (e.g., F12.259 severe
+cannabis use disorder with cannabis-induced psychotic disorder, with onset during intox­
+ication; F16.159 mild phencyclidine use disorder with phencyclidine-induced psychotic
+disorder, with onset during intoxication).
+
+Diagnostic Features
+The essential features of substance/medication-induced psychotic disorder are prominent
+delusions and/or hallucinations (Criterion A) that are judged to be due to the physiolog­
+ical effects of a substance/medication (i.e., a drug of abuse, a medication, or a toxin expo­
+sure) (Criterion B). Hallucinations that the individual realizes are substance/medication-
+induced are not included here and instead would be diagnosed as substance intoxication
+or substance withdrawal with the accompanying specifier "with perceptual disturbances"
+(applies to alcohpl withdrawal; cannabis intoxication; sedative, hypnotic, or anxiolytic
+withdrawal; and stimulant intoxication).
+    A substance/medication-induced psychotic disorder is distinguished from a primary
+psychotic disorder by considering the onset, course, and other factors. For drugs of abuse,
+there must be evidence from the history, physical examination, or laboratory findings of
+substance use, intoxication, or withdrawal. Substance/medication-induced psychotic
+disorders arise during or soon after exposure to a medication or after substance intoxica­
+tion or withdrawal but can persist for weeks, whereas primary psychotic disorders may
+precede the onset of substance/medication use or may occur during times of sustained ab­
+stinence. Once initiated, the psychotic symptoms may continue as long as the substance/
+medication use continues. Another consideration is the presence of features that are atyp­
+ical of a primary psychotic disorder (e.g., atypical age at onset or course). For example, the
+appearance of delusions de novo in a person older than 35 years without a known history
+of a primary psychotic disorder should suggest the possibility of a substance/medication-
+induced psychotic disorder. Even a prior history of a primary psychotic disorder does not
+rule out the possibility of a substance/medication-induced psychotic disorder. In contrast,
+factors that suggest that the psychotic symptoms are better accounted for by a primary
+psychotic disorder include persistence of psychotic symptoms for a substantial period of
+time (i.e., a month or more) after the end of substance intoxication or acute substance with­
+drawal or after cessation of medication use; or a history of prior recurrent primary psy­
+chotic disorders. Other causes of psychotic symptoms must be considered even in an
+individual with substance intoxication or withdrawal, because substance use problems are
+not uncommon among individuals with non-substance/medication-induced psychotic
+disorders.
+    In addition to the four symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making crit­
+ically important distinctions between the various schizophrenia spectrum and other psy­
+chotic disorders.
+
+Associated Features Supporting Diagnosis
+Psychotic disorders can occur in association with intoxication with the following classes of
+substances: alcohol; cannabis; hallucinogens, including phencyclidine and related sub­
+stances; inhalants; sedatives, hypnotics, and anxiolytics; stimulants (including cocaine);
+and other (or unknown) substances. Psychotic disorders can occur in association with with­
+drawal from the following classes of substances: alcohol; sedatives, hypnotics, and anxio­
+lytics; and other (or unknown) substances.
+    Some of the medications reported to evoke psychotic symptoms include anesthetics
+and analgesics, anticholinergic agents, anticonvulsants, antihistamines, antihypertensive
+and cardiovascular medications, antimicrobial medications, antiparkinsonian medica­
+tions, chemotherapeutic agents (e.g., cyclosporine, procarbazine), corticosteroids, gastro­
+intestinal medications, muscle relaxants, nonsteroidal anti-inflammatory medications,
+other over-the-counter medications (e.g., phenylephrine, pseudoephedrine), antidepres­
+sant medication, and disulfiram. Toxins reported to induce psychotic symptoms include
+anticholinesterase, organophosphate insecticides, sarin and other nerve gases, carbon
+monoxide, carbon dioxide, and volatile substances such as fuel or paint.
+
+Prevaience
+Prevalence of substance/medication-induced psychotic disorder in the general popula­
+tion is unknown. Between 7% and 25% of individuals presenting with a first episode of
+psychosis in different settings are reported to have substance/medication-induced psy­
+chotic disorder.
+Development and Course
+The initiation of the disorder may vary considerably with the substance. For example,
+smoking a high dose of cocaine may produce psychosis within minutes, whereas days or
+weeks of high-dose alcohol or sedative use may be required to produce psychosis. Alco­
+hol-induced psychotic disorder, with hallucinations, usually occurs only after prolonged,
+heavy ingestion of alcohol in individuals who have moderate to severe alcohol use disorder,
+and the hallucinations are generally auditory in nature.
+   Psychotic disorders induced by amphetamine and cocaine share similar clinical fea­
+tures. Persecutory delusions may rapidly develop shortly after use of amphetamine or a
+similarly acting sympathomimetic. The hallucination of bugs or vermin crawling in or un­
+der the skin (formication) can lead to scratching and extensive skin excoriations. Cannabis-
+induced psychotic disorder may develop shortly after high-dose cannabis use and usually
+involves persecutory delusions, marked anxiety, emotional lability, and depersonalization.
+The disorder usually remits within a day but in some cases may persist for a few days.
+    Substance/medication-induced psychotic disorder may at times persist when the offend­
+ing agent is removed, such that it may be difficult initially to distinguish it from an indepen­
+dent psychotic disorder. Agents such as amphetamines, phencyclidine, and cocaine have been
+reported to evoke temporary psychotic states that can sometimes persist for weeks or longer
+despite removal of the agent and treatment with neuroleptic medication. In later life, poly­
+pharmacy for medical conditions and exposure to medications for parkinsonism, cardiovas­
+cular disease, and other medical disorders may be associated with a greater likelihood of
+psychosis induced by prescription medications as opposed to substances of abuse.
+
+Diagnostic iVlarlcers
+With substances for which relevant blood levels are available (e.g., blood alcohol level,
+other quantifiable blood levels such as digoxin), the presence of a level consistent with tox­
+icity may increase diagnostic certainty.
+
+Functionai Consequences of
+Substance/iVledication-induced Psycliotic Disorder
+Substance/medication-induced psychotic disorder is typically severely disabling and
+consequently is observed most frequently in emergency rooms, as individuals are often
+brought to the acute-care setting when it occurs. However, the disability is typically self­
+limited and resolves upon removal of the offending agent.
+
+Differential Diagnosis
+Substance intoxication or substance withdrawal. Individuals intoxicated with stimu­
+lants, cannabis, the opioid meperidine, or phencyclidine, or those withdrawing from alco­
+hol or sedatives, may experience altered perceptions that they recognize as drug effects. If
+reality testing for these experiences remains intact (i.e., the individual recognizes that the
+perception is substance induced and neither believes in nor acts on it), the diagnosis is not
+substance/medication-induced psychotic disorder. Instead, substance intoxication or
+substance withdrawal, with perceptual disturbances, is diagnosed (e.g., cocaine intoxica­
+tion, with perceptual disturbances). "Flashback" hallucinations that can occur long after
+the use of hallucinogens has stopped are diagnosed as hallucinogen persisting perception
+disorder. If substance/medication-induced psychotic symptoms occur exclusively during
+the course of a delirium, as in severe forms of alcohol withdrawal, the psychotic symptoms
+are considered to be an associated feature of the delirium and are not diagnosed sepa­
+rately. Delusions in the context of a major or mild neurocognitive disorder would be di­
+agnosed as major or mild neurocognitive disorder, with behavioral disturbance.
+Primary psychotic disorder. A substance/medication-induced psychotic disorder is
+distinguished from a primary psychotic disorder, such as schizophrenia, schizoaffective
+disorder, delusional disorder, brief psychotic disorder, other specified schizophrenia
+spectrum and other psychotic disorder, or unspecified schizophrenia spectrum and other
+psychotic disorder, by the fact that a substance is judged to be etiologically related to the
+symptoms.
+Psychotic disorder due to another medical condition. A substance/medication-induced
+psychotic disorder due to a prescribed treatment for a mental or medical condition must
+have its onset while the individual is receiving the medication (or during withdrawal, if
+there is a withdrawal syndrome associated with the medication). Because individuals with
+medical conditions often take medications for those conditions, the clinician must con­
+sider the possibility that the psychotic symptoms are caused by the physiological conse­
+quences of the medical condition rather than the medication, in which case psychotic
+disorder due to another medical condition is diagnosed. The history often provides the
+primary basis for such a judgment. At times, a change in the treatment for the medical con­
+dition (e.g., medication substitution or discontinuation) may be needed to determine em­
+pirically for that individual whether the medication is the causative agent. If the clinician
+has ascertained that the disturbance is attributable to both a medical condition and sub­
+stance/medication use, both diagnoses (i.e., psychotic disorder due to another medical
+condition and substance/medication-induced psychotic disorder) may be given.
+
+
+                                          Psychotic Disorder
+                            Due to Another Medical Condition
+Diagnostic Criteria
+A. Prominent hallucinations or delusions.
+B. There is evidence from the history, physical examination, or laboratory findings that the
+   disturbance is the direct pathophysiological consequence of another medical condi­
+   tion.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupa­
+   tional, or other important areas of functioning.
+Specify whether:
+Code based on predominant symptom:
+   293.81 (F06.2) With delusions: If delusions are the predominant symptom.
+   293.82 (F06.0) With hallucinations: If hallucinations are the predominant symptom.
+Coding note: Include the name of the other medical condition in the name of the mental
+disorder (e.g., 293.81 [F06.2] psychotic disorder due to malignant lung neoplasm, with de­
+lusions). The other medical condition should be coded and listed separately immediately
+before the psychotic disorder due to the medical condition (e.g., 162.9 [C34.90] malignant
+lung neoplasm; 293.81 [F06.2] psychotic disorder due to malignant lung neoplasm, with
+delusions).
+Specify current severity:
+   Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+   including delusions, hallucinations, abnormal psychomotor behavior, and negative
+   symptoms. Each of these symptoms may be rated for its current severity (most severe
+   in the last 7 days) on a 5-point scale ranging from 0 (not present) to 4 (present and
+   severe). (See Clinician-Rated Dimensions of Psychosis Symptom Severity in the chap­
+   ter “Assessment Measures.”)
+   Note: Diagnosis of psychotic disorder due to another medical condition can be made
+   without using this severity specifier.
+
+
+Specifiers
+In addition to the symptom domain areas identified in the diagnostic criteria, the assess­
+ment of cognition, depression, and mania symptom domains is vital for making critically
+important distinctions between the various schizophrenia spectrum and other psychotic
+disorders.
+
+Diagnostic Features
+The essential features of psychotic disorder due to another medical condition are promi­
+nent delusions or hallucinations that are judged to be attributable to the physiological ef­
+fects of another medical condition and are not better explained by another mental disorder
+(e.g., the symptoms are not a psychologically mediated response to a severe medical con­
+dition, in which case a diagnosis of brief psychotic disorder, with marked stressor, would
+be appropriate).
+     Hallucinations can occur in any sensory modality (i.e., visual, olfactory, gustatory, tac­
+tile, or auditory), but certain etiological factors are likely to evoke specific hallucinatory
+phenomena. Olfactory hallucinations are suggestive of temporal lobe epilepsy. Hallucina­
+tions may vary from simple and unformed to highly complex and organized, depending
+on etiological and environmental factors. Psychotic disorder due to another medical con­
+dition is generally not diagnosed if the individual maintains reality testing for the hallu­
+cinations and appreciates that they result from the medical condition. Delusions may have
+a variety of themes, including somatic, grandiose, religious, and, most commonly, perse­
+cutory. On the whole, however, associations between delusions and particular medical
+conditions appear to be less specific than is the case for hallucinations.
+     In determining whether the psychotic disturbance is attributable to another medical
+condition, the presence of a medical condition must be identified and considered to be the
+etiology of the psychosis through a physiological mechanism. Although there are no
+infallible guidelines for determining whether the relationship between the psychotic distur­
+bance and the medical condition is etiological, several considerations provide some guidance.
+One consideration is the presence of a temporal association between the onset, exacerba­
+tion, or remission of the medical condition and that of the psychotic disturbance. A second
+consideration is the presence of features that are atypical for a psychotic disorder (e.g.,
+atypical age at onset or presence of visual or olfactory hallucinations). The disturbance must
+also be distinguished from a substance/medication-induced psychotic disorder or an­
+other mental disorder (e.g., an adjustment disorder).
+
+Associated Features Supporting Diagnosis
+The temporal association of the onset or exacerbation of the medical condition offers the
+greatest diagnostic certainty that the delusions or hallucinations are attributable to a med­
+ical condition. Additional factors may include concomitant treatments for the underlying
+medical condition that confer a risk for psychosis independently, such as steroid treatment
+for autoimmune disorders.
+
+Prevalence
+Prevalence rates for psychotic disorder due to another medical condition are difficult to es­
+timate given the wide variety of underlying medical etiologies. Lifetime prevalence has
+been estimated to range from 0.21% to 0.54%. When the prevalence findings are stratified
+by age group, individuals older than 65 years have a significantly greater prevalence of
+0.74% compared with those in younger age groups. Rates of psychosis also vary according
+to the underlying medical condition; conditions most commonly associated with psy­
+chosis include untreated endocrine and metabolic disorders, autoimmune disorders (e.g.,
+systemic lupus erythematosus, N-methyl-D-aspartate (NMDA) receptor autoimmune en­
+cephalitis), or temporal lobe epilepsy. Psychosis due to epilepsy has been further differ­
+entiated into ictal, postictal, and interictal psychosis. The most common of these is postictal
+psychosis, observed in 2%-7.8% of epilepsy patients. Among older individuals, there may
+be a higher prevalence of the disorder in females, although additional gender-related fea­
+tures are not clear and vary considerably with the gender distributions of the underlying
+medical conditions.
+
+Development and Course
+Psychotic disorder due to another medical condition may be a single transient state or it
+may be recurrent, cycling with exacerbations and remissions of the underlying medical
+condition. Although treatment of the underlying medical condition often results in a res­
+olution of the psychosis, this is not always the case, and psychotic symptoms may persist
+long after the medical event (e.g., psychotic disorder due to focal brain injury). In the con­
+text of chronic conditions such as multiple sclerosis or chronic interictal psychosis of epi­
+lepsy, the psychosis may assume a long-term course.
+    The expression of psychotic disorder due to another medical condition does not differ
+substantially in phenomenology depending on age at occurrence. However, older age
+groups have a higher prevalence of the disorder, which is most likely due to the increasing
+medical burden associated with advanced age and the cumulative effects of deleterious
+exposures and age-related processes (e.g., atherosclerosis). The nature of the underlying
+medical conditions is likely to change across the lifespan, with younger age groups more
+affected by epilepsy, head trauma, autoimmune, and neoplastic diseases of early to mid­
+life, and older age groups more affected by stroke disease, anoxic events, and multiple sys­
+tem comorbidities. Underlying factors with increasing age, such as preexisting cognitive
+impairment as well as vision and hearing impairments, may incur a greater risk for psy­
+chosis, possibly by serving to lower the threshold for experiencing psychosis.
+
+Risk and Prognostic Factors
+Course modifiers. Identification and treatment of the underlying medical condition has
+the greatest impact on course, although preexisting central nervous system injury may
+confer a worse course outcome (e.g., head trauma, cerebrovascular disease).
+
+Diagnostic iVlarlcers
+The diagnosis of psychotic disorder due to another medical condition depends on the clin­
+ical condition of each individual, and the diagnostic tests will vary according to that con­
+dition. A variety of medical conditions may cause psychotic symptoms. These include
+neurological conditions (e.g., neoplasms, cerebrovascular disease, Huntington's disease,
+multiple sclerosis, epilepsy, auditory or visual nerve injury or impairment, deafness,
+migraine, central nervous system infections), endocrine conditions (e.g., hyper- and hypo­
+thyroidism, hyper- and hypoparathyroidism, hyper- and hypoadrenocorticism), metabolic
+conditions (e.g., hypoxia, hypercarbia, hypoglycemia), fluid or electrolyte imbalances,
+hepatic or renal diseases, and autoimmune disorders with central nervous system involve­
+ment (e.g., systemic lupus erythematosus). The associated physical examination findings,
+laboratory findings, and patterns of prevalence or onset reflect the etiological medical
+condition.
+Suicide Risl(
+Suicide risk in the context of psychotic disorder due to another medical condition is not
+clearly delineated, although certain conditions such as epilepsy and multiple sclerosis are
+associated with increased rates of suicide, which may be further increased in the presence
+of psychosis.
+
+Functional Consequences of Psycliotic Disorder
+Due to Another IVIedical Condition
+Functional disability is typically severe in the context of psychotic disorder due to another
+medical condition but will vary considerably by the type of condition and likely improve
+with successful resolution of the condition.
+
+Differential Diagnosis
+Delirium. Hallucinations and delusions commonly occur in the context of a delirium;
+however, a separate diagnosis of psychotic disorder due to another medical condition is
+not given if the disturbance occurs exclusively during the course of a delirium. Delusions
+in the context of a major or mild neurocognitive disorder would be diagnosed as major or
+mild neurocognitive disorder, with behavioral disturbance.
+Substance/medication-induced psychotic disorder. If there is evidence of recent or
+prolonged substance use (including medications with psychoactive effects), withdrawal
+from a substance, or exposure to a toxin (e.g., LSD [lysergic acid diethylamide] intoxica­
+tion, alcohol withdrawal), a substance/medication-induced psychotic disorder should be
+considered. Symptoms that occur during or shortly after (i.e., within 4 weeks) of substance
+intoxication or withdrawal or after medication use may be especially indicative of a sub­
+stance-induced psychotic disorder, depending on the character, duration, or amount of
+the substance used. If the clinician has ascertained that the disturbance is due to both a
+medical condition and substance use, both diagnoses (i.e., psychotic disorder due to an­
+other medical condition and substance/medication-induced psychotic disorder) can be
+given.
+Psychotic disorder. Psychotic disorder due to another medical condition must be distin­
+guished from a psychotic disorder (e.g., schizophrenia, delusional disorder, schizoaffective
+disorder) or a depressive or bipolar disorder, with psychotic features. In psychotic disor­
+ders and in depressive or bipolar disorders, with psychotic features, no specific and direct
+causative physiological mechanisms associated with a medical condition can be demon­
+strated. Late age at onset and the absence of a personal or family history of schizophrenia
+or delusional disorder suggest the need for a thorough assessment to rule out the diagno­
+sis of psychotic disorder due to another medical condition. Auditory hallucinations that
+involve voices speaking complex sentences are more characteristic of schizophrenia than
+of psychotic disorder due to a medical condition. Other types of hallucinations (e.g., vi­
+sual, olfactory) commonly signal a psychotic disorder due to another medical condition or
+a substance/medication-induced psychotic disorder.
+
+Comorbidity
+Psychotic disorder due to another medical condition in individuals older than 80 years is
+associated with concurrent major neurocognitive disorder (dementia).
+                                   Catatonia
+Catatonia can occur in the context of several disorders, including neurodevelopmental,
+psychotic, bipolar, depressive disorders, and other medical conditions (e.g., cerebral folate
+deficiency, rare autoimmune and paraneoplastic disorders. The manual does not treat
+catatonia as an independent class but recognizes a) catatonia associated with another men­
+tal disorder (i.e., a neurodevelopmental, psychotic disorder, a bipolar disorder, a depres­
+sive disorder, or other mental disorder), b) catatonic disorder due to another medical
+condition, and c) unspecified catatonia.
+    Catatonia is defined by the presence of three or more of 12 psychomotor features in the
+diagnostic criteria for catatonia associated with another mental disorder and catatonic dis­
+order due to another medical condition. The essential feature of catatonia is a marked psy­
+chomotor disturbance that may involve decreased motor activity, decreased engagement
+during interview or physical examination, or excessive and peculiar motor activity. The
+clinical presentation of catatonia can be puzzling, as the psychomotor disturbance may
+range from marked unresponsiveness to marked agitation. Motoric immobility may be se­
+vere (stupor) or moderate (catalepsy and waxy flexibility). Similarly, decreased engage­
+ment may be severe (mutism) or moderate (negativism). Excessive and peculiar motor
+behaviors can be complex (e.g., stereotypy) or simple (agitation) and may include echola-
+lia and echopraxia. In extreme cases, the same individual may wax and wane between de­
+creased and excessive motor activity. The seemingly opposing clinical features and
+variable manifestations of the diagnosis contribute to a lack of awareness and decreased
+recognition of catatonia. During severe stages of catatonia, the individual may need care­
+ful supervision to avoid self-harm or harming others. There are potential risks from mal­
+nutrition, exhaustion, hyperpyrexia and self-inflicted injury.
+
+
+                      Catatonia Associated With Another
+                     Mental Disorder (Catatonia Specifier)
+                                                                        293.89 (F06.1)
+
+A. The clinical picture is dominated by three (or more) of the following symptoms:
+     1.   Stupor (i.e., no psychomotor activity; not actively relating to environment).
+     2.   Catalepsy (i.e., passive induction of a posture held against gravity).
+     3.   Waxy flexibility (i.e., slight, even resistance to positioning by examiner).
+     4.   Mutism (i.e., no, or very little, verbal response [exclude if known aphasia]).
+     5.   Negativism (i.e., opposition or no response to instructions or external stimuli).
+     6.   Posturing (i.e., spontaneous and active maintenance of a posture against gravity).
+     7.   Mannerism (i.e., odd, circumstantial caricature of normal actions).
+     8.   Stereotypy (i.e., repetitive, abnormally frequent, non-goal-directed movements).
+     9.   Agitation, not influenced by external stimuli.
+    10.   Grimacing.
+    11.   Echolalia (i.e., mimicking another’s speech).
+    12.   Echopraxia (i.e., mimicking another’s movements).
+Coding note: Indicate the name of the associated mental disorder when recording the
+name of the condition (i.e., 293.89 [F06.1] catatonia associated with major depressive dis­
+order). Code first the associated mental disorder (e.g., neurodevelopmental disorder, brief
+psychotic disorder, schizophreniform disorder, schizophrenia, schizoaffective disorder,
+bipolar disorder, major depressive disorder, or other mental disorder) (e.g., 295.70 [F25.1]
+schizoaffective disorder, depressive type; 293.89 [F06.1] catatonia associated with
+schizoaffective disorder).
+
+
+Diagnostic Features
+Catatonia associated with another mental disorder (catatonia specifier) may be used when
+criteria are met for catatonia during the course of a neurodevelopmental, psychotic, bipo­
+lar, depressive, or other mental disorder. The catatonia specifier is appropriate when the
+clinical picture is characterized by marked psychomotor disturbance and involves at least
+three of the 12 diagnostic features listed in Criterion A. Catatonia is typically diagnosed in
+an inpatient setting and occurs in up to 35% of individuals with schizophrenia, but the ma­
+jority of catatonia cases involve individuals with depressive or bipolar disorders. Before
+the catatonia specifier is used in neurodevelopmental, psychotic, bipolar, depressive, or
+other mental disorders, a wide variety of other medical conditions need to be ruled out;
+these conditions include, but are not limited to, medical conditions due to infectious, met­
+abolic, or neurological conditions (see '"Catatonic Disorder Due to Another Medical Con­
+dition"). Catatonia can also be a side effect of a medication (see the chapter "Medication-
+Induced Movement Disorders and Other Adverse Effects of Medication"). Because of the
+seriousness of the complications, particular attention should be paid to the possibility that
+the catatonia is attributable to 333.92 (G21.0) neuroleptic malignant syndrome.
+
+
+                                         Catatonic Disorder Due to
+                                         Another IVIedical Condition
+Diagnostic Criteria                                                       293.89 (F06.1)
+A. The clinical picture is dominated by three (or more) of the following symptoms:
+     1.   Stupor (i.e., no psychomotor activity; not actively relating to environment).
+     2.   Catalepsy (i.e., passive induction of a posture held against gravity).
+     3.   Waxy flexibility (i.e., slight, even resistance to positioning by examiner).
+     4.   Mutism (i.e., no, or very little, verbal response [Note: not applicable if there is an
+          established aphasia]).
+     5.   Negativism (i.e., opposition or no response to instructions or external stimuli).
+     6.   Posturing (i.e., spontaneous and active maintenance of a posture against gravity).
+     7.   Mannerism (i.e., odd, circumstantial caricature of normal actions).
+     8.   Stereotypy (i.e., repetitive, abnormally frequent, non-goal-directed movements).
+     9.   Agitation, not influenced by external stimuli.
+    10.   Grimacing.
+    11.   Echolalia (i.e., mimicking another’s speech).
+    12.   Echopraxia (i.e., mimicking another’s movements).
+B. There is evidence from the history, physical examination, or laboratory findings that the
+   disturbance is the direct pathophysiological consequence of another medical condition.
+C. The disturbance is not better explained by another mental disorder (e.g., a manic episode).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupa­
+   tional, or other important areas of functioning.
+Coding note: Include the name of the medical condition in the name of the mental disor­
+der (e.g., 293.89 [F06.1]) catatonic disorder due to hepatic encephalopathy). The other
+medical condition should be coded and listed separately immediately before the cata­
+tonic disorder due to the medical condition (e.g., 572.2 [K71.90] hepatic encephalopathy;
+293.89 [F06.1] catatonic disorder due to hepatic encephalopathy).
+
+
+Diagnostic Features
+The essential feature of catatonic disorder due to another medical condition is the presence
+of catatonia that is judged to be attributed to the physiological effects of another medical
+condition. Catatonia can be diagnosed by the presence of at least three of the 12 clinical fea­
+tures in Criterion A. There must be evidence from the history, physical examination, or
+laboratory findings that the catatonia is attributable to another medical condition (Crite­
+rion B). The diagnosis is not given if the catatonia is better explained by another mental
+disorder (e.g., manic episode) (Criterion C) or if it occurs exclusively during the course of
+a delirium (Criterion D).
+
+Associated Features Supporting Diagnosis
+A variety of medical conditions may cause catatonia, especially neurological conditions
+(e.g., neoplasms, head trauma, cerebrovascular disease, encephalitis) and metabolic con­
+ditions (e.g., hypercalcemia, hepatic encephalopathy, homocystinuria, diabetic ketoacido­
+sis). The associated physical examination findings, laboratory findings, and patterns of
+prevalence and onset reflect those of the etiological medical condition.
+
+Differential Diagnosis
+A separate diagnosis of catatonic disorder due to another medical condition is not given if
+the catatonia occurs exclusively during the course of a delirium or neuroleptic malignant
+syndrome. If the individual is currently taking neuroleptic medication, consideration
+should be given to medication-induced movement disorders (e.g., abnormal positioning
+may be due to neuroleptic-induced acute dystonia) or neuroleptic malignant syndrome
+(e.g., catatonic-like features may be present, along with associated vital sign and/or labo­
+ratory abnormalities). Catatonic symptoms may be present in any of the following five
+psychotic disorders: brief psychotic disorder, schizophreniform disorder, schizophrenia,
+schizoaffective disorder, and substance/medication-induced psychotic disorder. It may
+also be present in some of the neurodevelopmental disorders, in all of the bipolar and de­
+pressive disorders, and in other mental disorders.
+
+
+                                                  Unspecified Catatonia
+
+This category applies to presentations in which symptoms characteristic of catatonia
+cause clinically significant distress or impairment in social, occupational, or other impor­
+tant areas of functioning but either the nature of the underlying mental disorder or other
+medical condition is unclear, full criteria for catatonia are not met, or there is insufficient
+information to make a more specific diagnosis (e.g., in emergency room settings).
+Coding note: Code first 781.99 (R29.818) other symptoms involving nervous and muscu­
+loskeletal systems, followed by 293.89 (F06.1) unspecified catatonia.
+    Other Specified Schizophrenia Spectrum and
+                       Other Psychotic Disorder
+                                                                             298.8 (F28)
+This category applies to presentations in which symptoms characteristic of a schizophre­
+nia spectrum and other psychotic disorder that cause clinically significant distress or im­
+pairment in social, occupational, or other important areas of functioning predominate but
+do not meet the full criteria for any of the disorders in the schizophrenia spectrum and other
+psychotic disorders diagnostic class. The other specified schizophrenia spectrum and oth­
+er psychotic disorder category is used in situations in which the clinician chooses to com­
+municate the specific reason that the presentation does not meet the criteria for any
+specific schizophrenia spectrum and other psychotic disorder. This is done by recording “oth­
+er specified schizophrenia spectrum and other psychotic disorder” followed by the specific
+reason (e.g., “persistent auditory hallucinations”).
+    Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1. Persistent auditory liallucinations occurring in the absence of any other features.
+2. Deiusions with significant overlapping mood episodes: This includes persistent
+    delusions with periods of overlapping mood episodes that are present for a substantial
+    portion of the delusional disturbance (such that the criterion stipulating only brief mood
+    disturbance in delusional disorder is not met).
+3. Attenuated psychiosis syndrome: This syndrome is characterized by psychotic-like
+    symptoms that are below a threshold for full psychosis (e.g., the symptoms are less
+    severe and more transient, and insight is relatively maintained).
+4. Deiusionai symptoms in partner of individuai witii deiusionai disorder: In the
+    context of a relationship, the delusional material from the dominant partner provides
+    content for delusional belief by the individual who may not othenwise entirely meet cri­
+    teria for delusional disorder.
+
+
+
+            Unspecified Schizophrenia Spectrum and
+                           Other Psychotic Disorder
+                                                                             298.9 (F29)
+This category applies to presentations in which symptoms characteristic of a schizophre­
+nia spectrum and other psychotic disorder that cause clinically significant distress or im­
+pairment in social, occupational, or other important areas of functioning predominate but
+do not meet the full criteria for any of the disorders in the schizophrenia spectrum and oth­
+er psychotic disorders diagnostic class. The unspecified schizophrenia spectrum and oth­
+er psychotic disorder category is used in situations in which the clinician chooses not to
+specify the reason that the criteria are not met for a specific schizophrenia spectrum and
+other psychotic disorder, and includes presentations in which there is insufficient informa­
+tion to make a more specific diagnosis (e.g., in emergency room settings).
+                                        ^ ~ Bipolar and
+                                        Related Disorders
+B i p o l s r S n d rG lâ te d disorders are separated from the depressive disorders in
+DSM-5 and placed between the chapters on schizophrenia spectrum and other psychotic
+disorders and depressive disorders in recognition of their place as a bridge between the
+two diagnostic classes in terms of symptomatology, family history, and genetics. The di­
+agnoses included in this chapter are bipolar I disorder, bipolar II disorder, cyclothymic
+disorder, substance/medication-induced bipolar and related disorder, bipolar and relat­
+ed disorder due to another medical condition, other specified bipolar and related disor­
+der, and unspecified bipolar and related disorder.
+    The bipolar I disorder criteria represent the modern understanding of the classic
+manic-depressive disorder or affective psychosis described in the nineteenth century, dif­
+fering from that classic description only to the extent that neither psychosis nor the lifetime
+experience of a major depressive episode is a requirement. However, the vast majority of
+individuals whose symptoms meet the criteria for a fully syndromal manic episode also
+experience major depressive episodes during the course of their lives.
+    Bipolar II disorder, requiring the lifetime experience of at least one episode of major de­
+pression and at least one hypomanie episode, is no longer thought to be a "milder" condition
+than bipolar I disorder, largely because of the amount of time individuals with this con­
+dition spend in depression and because the instability of mood experienced by individuals
+with bipolar II disorder is typically accompanied by serious impairment in work and social
+functioning.
+    The diagnosis of cyclothymic disorder is given to adults who experience at least 2 years
+(for children, a full year) of both hypomanie and depressive periods without ever fulfilling
+the criteria for an episode of mania, hypomania, or major depression.
+    A large number of substances of abuse, some prescribed medications, and several
+medical conditions can be associated with manic-like phenomena. This fact is recognized
+in the diagnoses of substance/medication-induced bipolar and related disorder and bipo­
+lar and related disorder due to another medical condition.
+    The recognition that many individuals, particularly children and, to a lesser extent, ad­
+olescents, experience bipolar-like phenomena that do not meet the criteria for bipolar I, bi­
+polar II, or cyclothymic disorder is reflected in the availability of the other specified
+bipolar and related disorder category. Indeed, specific criteria for a disorder involving
+short-duration hypomania are provided in Section III in the hope of encouraging further
+study of this disorder.
+
+
+                                                              Bipolar I Disorder
+Diagnostic Criteria
+For a diagnosis of bipolar I disorder, it is necessary to meet tlie following criteria for a manic
+episode. The manic episode may have been preceded by and may be followed by hypo-
+manic or major depressive episodes.
+Manic Episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood
+   and abnormally and persistently increased goal-directed activity or energy, lasting at
+   least 1 week and present most of the day, nearly every day (or any duration if hospi­
+   talization is necessary).
+B. During the period of mood disturbance and increased energy or activity, three (or
+   more) of the following symptoms (four if the mood is only irritable) are present to a sig­
+   nificant degree and represent a noticeable change from usual behavior:
+   1. Inflated self-esteem or grandiosity.
+   2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+   3. More talkative than usual or pressure to keep talking.
+   4. Flight of ideas or subjective experience that thoughts are racing.
+   5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external
+      stimuli), as reported or observed.
+   6. Increase in goal-directed activity (either socially, at work or school, or sexually) or
+      psychomotor agitation (i.e., puφoseless non-goal-directed activity).
+   7. Excessive involvement in activities that have a high potential for painful conse­
+      quences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or
+      foolish business investments).
+C. The mood disturbance is sufficiently severe to cause marked impairment in social or
+   occupational functioning or to necessitate hospitalization to prevent harm to self or oth­
+   ers, or there are psychotic features.
+D. The episode is not attributable to the physiological effects of a substance (e.g., a drug
+   of abuse, a medication, other treatment) or to another medical condition.
+    Note: A full manic episode that emerges during antidepressant treatment (e.g., medi­
+   cation, electroconvulsive therapy) but persists at a fully syndromal level beyond the
+    physiological effect of that treatment is sufficient evidence for a manic episode and,
+   therefore, a bipolar I diagnosis.
+Note: Criteria A-D constitute a manic episode. At least one lifetime manic episode is re­
+quired for the diagnosis of bipolar I disorder.
+Hypomanie Episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood
+   and abnormally and persistently increased activity or energy, lasting at least 4 consec­
+   utive days and present most of the day, nearly every day.
+B. During the period of mood disturbance and increased energy and activity, three (or
+   more) of the following symptoms (four if the mood is only irritable) have persisted, rep­
+   resent a noticeable change from usual behavior, and have been present to a significant
+   degree:
+   1. Inflated self-esteem or grandiosity.
+   2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+   3. More talkative than usual or pressure to keep talking.
+   4. Flight of ideas or subjective experience that thoughts are racing.
+   5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external
+      stimuli), as reported or observed.
+   6. Increase in goal-directed activity (either socially, at work or school, or sexually) or
+      psychomotor agitation.
+   7. Excessive involvement in activities that have a high potential for painful conse­
+      quences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or
+      foolish business investments).
+C. The episode is associated with an unequivocal change in functioning that is uncharac­
+   teristic of the individual when not symptomatic.
+D. The disturbance in mood and the change in functioning are observable by others.
+E. The episode is not severe enough to cause marked impairment in social or occupa­
+   tional functioning or to necessitate hospitalization. If there are psychotic features, the
+   episode is, by definition, manic.
+F. The episode is not attributable to the physiological effects of a substance (e.g., a drug
+   of abuse, a medication, other treatment).
+   Note: A full hypomanie episode that emerges during antidepressant treatment (e.g.,
+   medication, electroconvulsive therapy) but persists at a fully syndromal level beyond
+   the physiological effect of that treatment is sufficient evidence for a hypomanie episode
+   diagnosis. However, caution is indicated so that one or two symptoms (particularly in­
+   creased irritability, edginess, or agitation following antidepressant use) are not taken
+   as sufficient for diagnosis of a hypomanie episode, nor necessarily indicative of a bi­
+   polar diathesis.
+Note: Criteria A-'F constitute a hypomanie episode. Hypomanie episodes are common in
+bipolar I disorder but are not required for the diagnosis of bipolar I disorder.
+Major Depressive Episode
+A. Five (or more) of the following symptoms have been present during the same 2-week
+   period and represent a change from previous functioning; at least one of the symptoms
+   is either (1) depressed mood or (2) loss of interest or pleasure.
+   Note: Do not include symptoms that are clearly attributable to another medical condi­
+   tion.
+   1. Depressed mood most of the day, nearly every day, as indicated by either subjec­
+      tive report (e.g., feels sad, empty, or hopeless) or observation made by others (e.g.,
+      appears tearful). (Note: In children and adolescents, can be irritable mood.)
+   2. Markedly diminished interest or pleasure in all, or almost all, activities most of the
+      day, nearly every day (as indicated by either subjective account or observation).
+   3. Significant weight loss when not dieting or weight gain (e.g., a change of more than
+      5% of body weight in a month), or decrease or increase in appetite nearly every
+      day. (Note: In children, consider failure to make expected weight gain.)
+   4. Insomnia or hypersomnia nearly every day.
+   5. Psychomotor agitation or retardation nearly every day (observable by others; not
+      merely subjective feelings of restlessness or being slowed down).
+   6. Fatigue or loss of energy nearly every day.
+   7. Feelings of worthlessness or excessive or inappropriate guilt (which may be delu­
+      sional) nearly every day (not merely self-reproach or guilt about being sick).
+   8. Diminished ability to think or concentrate, or indecisiveness, nearly every day (ei­
+      ther by subjective account or as observed by others).
+   9. Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation with­
+      out a specific plan, or a suicide attempt or a specific plan for committing suicide.
+B. The symptoms cause clinically significant distress or impairment in social, occupa­
+   tional, or other important areas of functioning.
+C. The episode is not attributable to the physiological effects of a substance or another
+   medical condition.
+Note: Criteria A-C constitute a major depressive episode. Major depressive episodes are
+common in bipolar I disorder but are not required for the diagnosis of bipolar I disorder.
+Note: Responses to a significant loss (e.g., bereavement, financial ruin, losses from a
+natural disaster, a serious medical illness or disability) may include the feelings of intense
+sadness, rumination about the loss, insomnia, poor appetite, and weight loss noted in Cri­
+terion A, which may resemble a depressive episode. Although such symptoms may be un­
+derstandable or considered appropriate to the loss, the presence of a major depressive
+episode in addition to the normal response to a significant loss should also be carefully
+considered. This decision inevitably requires the exercise of clinical judgment based on
+the individual’s history and the cultural norms for the expression of distress in the context
+of loss.^
+Bipolar I Disorder
+A. Criteria have been met for at least one manic episode (Criteria A-D under “Manic Ep­
+   isode” above).
+B. The occurrence of the manic and major depressive episode(s) is not better explained
+   by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional dis­
+   order, or other specified or unspecified schizophrenia spectrum and other psychotic
+   disorder.
+Coding and Recording Procedures
+The diagnostic code for bipolar I disorder is based on type of current or most recent epi­
+sode and its status with respect to current severity, presence of psychotic features, and
+remission status. Current severity and psychotic features are only indicated if full criteria
+are currently met for a manic or major depressive episode. Remission specifiers are only
+indicated if the full criteria are not currently met for a manic, hypomanie, or major depres­
+sive episode. Codes are as follows:
+
+                         Current or          Current or         Current or          Current or
+                         most recent        most recent         most recent         most recent
+                          episode             episode            episode             episode
+ Bipolar 1disorder         manic            hypomanie*          depressed          unspecified**
+ Mild (p. 154)              296.41                ΝΑ               296.51                NA
+                           (F31.11)                               (F31.31)
+ Moderate (p. 154)          296.42                ΝΑ               296.52                NA
+                           (F31.12)                               (F31.32)
+ Severe (p. 154)            296.43                ΝΑ               296.53                NA
+                           (F31.13)                                (F31.4)
+
+
+
+
+ ^In distinguishing grief from a major depressive episode (MDE), it is useful to consider that in
+  grief the predominant affect is feelings of emptiness and loss, while in MDE it is persistent
+  depressed mood and the inability to anticipate happiness or pleasure. The dysphoria in grief is
+  likely to decrease in intensity over days to Wfeeks and occurs in waves, the so-called pangs of
+  grief. These waves tend to be associated with thoughts or reminders of the deceased. The
+  depressed mood of a MDE is more persistent and not tied to specific thoughts or preoccupations.
+  The pain of grief may be accompanied by positive emotions and humor that are uncharacteristic
+  of the pervasive unhappiness and misery characteristic of a major depressive episode. The
+  thought content associated with grief generally features a preoccupation with thoughts and
+  memories of the deceased, rather than the self-critical or pessimistic ruminations seen in a MDE.
+  In grief, self-esteem is generally preserved, whereas in a MDE, feelings of worthlessness and self­
+  loathing are common. If self-derogatory ideation is present in grief, it typically involves per­
+  ceived failings vis-à-vis the deceased (e.g., not visiting frequently enough, not telling the
+  deceased how much he or she was loved). If a bereaved individual thinks about death and dying,
+  such thoughts are generally focused on the deceased and possibly about "joining" the deceased,
+  whereas in a major depressive episode such thoughts are focused on ending one's own life
+  because of feeling worthless, undeserving of life, or unable to cope with the pain of depression.
+                         Current or           Current or         Current or          Current or
+                         most recent         most recent         most recent        most recent
+                          episode              episode            episode             episode
+ Bipolar 1disorder         manic             hypomanie*          depressed          unspecified**
+With psychotic              296.44                ΝΑ                296.54                NA
+features***                 (F31.2)                                 (F31.5)
+(p. 152)
+ In partial                  296.45             296.45              296.55                NA
+ remission (p. 154)         (F31.73)           (F31.73)            (F31.75)
+ In full remission           296.46             296.46              296.56                 NA
+ (p. 154)                   (F31.74)           (F31.74)            (F31.76)
+ Unspecified                296.40              296.40              296.50                NA
+                            (F31.9)             (F31.9)             (F31.9)
+ Severity and psychotic specifiers do not apply; code 296.40 (F31.0) for cases not in remission.
+  Severity, psychotic, and remission specifiers do not apply. Code 296.7 (F31.9).
+***If psychotic features are present, code the "with psychotic features" specifier irrespective of epi­
+sode severity.
+In recording the name of a diagnosis, terms should be listed in the following order: bipolar
+I disorder, type of current or most recent episode, severity/psychotic/remission specifiers,
+followed by as many specifiers without codes as apply to the current or most recent epi­
+sode.
+Specify.
+   With    anxious distress (p. 149)
+   With    mixed features (pp. 149-150)
+   With    rapid cycling (pp. 150-151)
+   With    meianchoiic features (p. 151)
+   With    atypicai features (pp. 151-152)
+   With    m ood-congruent psychotic features (p. 152)
+   With    m ood-incongruent psychotic features (p. 152)
+   With    catatonia (p. 152). Coding note: Use additional code 293.89 (F06.1).
+   With    péripartum onset (pp. 152-153)
+   With    seasonal pattern (pp. 153-154)
+
+
+
+Diagnostic Features
+The essential feature of a manic episode is a distinct period during which there is an ab­
+normally, persistently elevated, expansive, or irritable mood and persistently increased
+activity or energy that is present for most of the day, nearly every day, for a period of at
+least 1 week (or any duration if hospitalization is necessary), accompanied by at least three
+additional symptoms from Criterion B. If the mood is irritable rather than elevated or ex­
+pansive, at least four Criterion B symptoms must be present.
+    Mood in a manic episode is often described as euphoric, excessively cheerful, high, or
+"feeling on top of the world." In some cases, the mood is of such a highly infectious quality
+that it is easily recognized as excessive and may be characterized by unlimited and hap­
+hazard enthusiasm for interpersonal, sexual, or occupational interactions. For example,
+the individual may spontaneously start extensive conversations with strangers in public.
+Often the predominant mood is irritable rather than elevated, particularly when the indi­
+vidual's wishes are denied or if the individual has been using substances. Rapid shifts in
+mood over brief periods of time may occur and are referred to as lability (i.e., the alterna-
+tion among euphoria, dysphoria, and irritability). In children, happiness, silliness and
+"goofiness" are normal in the context of special occasions; however, if these symptoms are
+recurrent, inappropriate to the context, and beyond what is expected for the developmen­
+tal level of the child, they may meet Criterion A. If the happiness is unusual for a child (i.e.,
+distinct from baseline), and the mood change occurs at the same time as symptoms that
+meet Criterion B for mania, diagnostic certainty is increased; however, the mood change
+must be accompanied by persistently increased activity or energy levels that are obvious
+to those who know the child well.
+     During the manic episode, the individual may engage in multiple overlapping new
+projects. The projects are often initiated with little knowledge of the topic, and nothing seems
+out of the individual's reach. The increased activity levels may manifest at unusual hours of
+the day.
+     Inflated self-esteem is typically present, ranging from uncritical self-confidence to marked
+grandiosity, and may reach delusional proportions (Criterion Bl). Despite lack of any partic­
+ular experience or talent, the individual may embark on complex tasks such as writing a novel
+or seein g publicity for some impractical invention. Grandiose delusions (e.g., of having a
+special relationship to a famous person) are common. In children, overestimation of abilities
+and belief that, for example, they are the best at a sport or the smartest in the class is normal;
+however, when such beliefs are present despite clear evidence to the contrary or the child at­
+tempts feats that are clearly dangerous and, most important, represent a change from the
+child's normal behavior, the grandiosity criterion should be considered satisfied.
+     One of the most common features is a decreased need for sleep (Criterion B2) and is
+distinct from insomnia in which the individual wants to sleep or feels the need to sleep but
+is unable. The individual may sleep httle, if at all, or may awaken several hours earlier than
+usual, feeling rested and full of energy. When the sleep disturbance is severe, the individ­
+ual may go for days without sleep, yet not feel tired. Often a decreased need for sleep her­
+alds the onset of a manic episode.
+     Speech can be rapid, pressured, loud, and difficult to interrupt (Criterion B3). Individ­
+uals may talk continuously and without regard for others' wishes to communicate, often
+in an intrusive manner or without concern for the relevance of what is said. Speech is
+sometimes characterized by jokes, puns, amusing irrelevancies, and theatricality, with
+dramatic mannerisms, singing, and excessive gesturing. Loudness and forcefulness of
+speech often become more important than what is conveyed. If the individual's mood is
+more irritable than expansive, speech may be marked by complaints, hostile comments, or
+angry tirades, particularly if attempts are made to interrupt the individual. Both Criterion
+A and Criterion B symptoms may be accompanied by symptoms of the opposite (i.e., de­
+pressive) pole (see "with mixed features" specifier, pp. 149-150).
+     Often the individual's thoughts race at a rate faster than they can be expressed through
+speech (Criterion B4). Frequently there is flight of ideas evidenced by a nearly continuous flow
+of accelerated speech, with abrupt shifts from one topic to another. When flight of ideas is se­
+vere, speech may become disorganized, incoherent, and particularly distressful to the individ­
+ual. Sometimes thoughts are experienced as so crowded that it is very difficult to speak.
+     Distractibility (Criterion B5) is evidenced by an inability to censor immaterial external
+stimuli (e.g., the interviewer's attire, background noises or conversations, furnishings in
+the room) and often prevents individuals experiencing mania from holding a rational con­
+versation or attending to instructions.
+     The increase in goal-directed activity often consists of excessive planning and partici­
+pation in multiple activities, including sexual, occupational, political, or religious activi­
+ties. Increased sexual drive, fantasies, and behavior are often present. Individuals in a manic
+episode usually show increased sociability (e.g., renewing old acquaintances or calling or
+contacting friends or even strangers), without regard to the intrusive, domineering, and
+demanding nature of these interactions. They often display psychomotor agitation or rest­
+lessness (i.e., purposeless activity) by pacing or by holding multiple conversations simulta­
+
