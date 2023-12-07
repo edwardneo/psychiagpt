@@ -1,0 +1,347 @@
+A n x ie ty diSOrdGrS include disorders that share features of excessive fear and anxiety and related behavioral disturbances. Fear is the emotional response to real or perceived imminent threat, whereas anxiety is anticipation of future threat. Obviously, these 
+two states overlap, but they also differ, with fear more often associated with surges of autonomic arousal necessary for fight or flight, thoughts of immediate danger, and escape 
+behaviors, and anxiety more often associated with muscle tension and vigilance in preparation for future danger and cautious or avoidant behaviors. Sometimes the level of fear 
+or anxiety is reduced by pervasive avoidance behaviors. Panic attacks feature prominently 
+within the anxiety disorders as a particular type of fear response. Panic attacks are not limited to anxiety disorders but rather can be seen in other mental disorders as well.
+The anxiety disorders differ from one another in the types of objects or situations that 
+induce fear, anxiety, or avoidance behavior, and the associated cognitive ideation. Thus, 
+while the anxiety disorders tend to be highly comorbid with each other, they can be differentiated by close examination of the types of situations that are feared or avoided and 
+the content of the associated thoughts or beliefs.
+Anxiety disorders differ from developmentally normative fear or anxiety by being excessive or persisting beyond developmentally appropriate periods. They differ from transient fear or anxiety, often stress-induced, by being persistent (e.g., typically lasting 6 months 
+or more), although the criterion for duration is intended as a general guide with allowance 
+for some degree of flexibility and is sometimes of shorter duration in children (as in separation anxiety disorder and selective mutism). Since individuals with anxiety disorders 
+typically overestimate the danger in situations they fear or avoid, the primary determination of whether the fear or anxiety is excessive or out of proportion is made by the clinician, 
+taking cultural contextual factors into account. Many of the anxiety disorders develop in 
+childhood and tend to persist if not treated. Most occur more frequently in females than in 
+males (approximately 2:1 ratio). Each anxiety disorder is diagnosed only when the symptoms are not attributable to the physiological effects of a substance/medication or to another 
+medical condition or are not better explained by another mental disorder.
+eneralized Anxiety Disorder
+Diagnostic Criteria 300.02 (F41.1)
+A. Excessive anxiety and worry (apprehensive expectation), occurring more days than
+not for at least 6 months, about a number of events or activities (such as work or school
+performance).
+B. The individual finds it difficult to control the worry.
+C. The anxiety and worry are associated with three (or more) of the following six symptoms (with at least some symptoms having been present for more days than not for the
+past 6 months);
+Note: Only one item is required in children.
+1. Restlessness or feeling keyed up or on edge.
+2. Being easily fatigued.
+3. Difficulty concentrating or mind going blank.
+4. Irritability.
+5. Muscle tension.
+6. Sleep disturbance (difficulty falling or staying asleep, or restless, unsatisfying
+sleep).
+D. The anxiety, worry, or physical symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g., a
+drug of abuse, a medication) or another medical condition (e.g., hyperthyroidism).
+F. The disturbance is not better explained by another mental disorder (e.g., anxiety or
+worry about having panic attacks in panic disorder, negative evaluation in social anxiety disorder [social phobia], contamination or other obsessions in obsessive-compulsive disorder, separation from attachment figures in separation anxiety disorder,
+reminders of traumatic events in posttraumatic stress disorder, gaining weight in anorexia nervosa, physical complaints in somatic symptom disorder, perceived appearance flaws in body dysmorphic disorder, having a serious illness in illness anxiety
+disorder, or the content of delusional beliefs in schizophrenia or delusional disorder).
+Diagnostic Features
+The essential feature of generalized anxiety disorder is excessive anxiety and worry (apprehensive expectation) about a number of events or activities. The intensity, duration, or 
+frequency of the anxiety and worry is out of proportion to the actual likelihood or impact 
+of the anticipated event. The individual finds it difficult to control the worry and to keep 
+worrisome thoughts from interfering with attention to tasks at hand. Adults with generalized anxiety disorder often worry about everyday, routine life circumstances, such as 
+possible job responsibilities, health and finances, the health of family members, misfortune to their children, or minor matters (e.g., doing household chores or being late for appointments). Children with generalized anxiety disorder tend to worry excessively about 
+their competence or the quality of their performance. During the course of the disorder, 
+the focus of worry may shift from one concern to another.
+Several features distinguish generalized anxiety disorder from nonpathological anxiety. 
+First, the worries associated with generalized anxiety disorder are excessive and typically interfere significantly with psychosocial functioning, whereas the worries of everyday life 
+are not excessive and are perceived as more manageable and may be put off when more 
+pressing matters arise. Second, the worries associated with generalized anxiety disorder are
+more pervasive, pronounced, and distressing; have longer duration; and frequently occur 
+without précipitants. The greater the range of life circumstances about which a person 
+worries (e.g., finances, children's safety, job performance), the more likely his or her symptoms are to meet criteria for generalized anxiety disorder. Third, everyday worries are much 
+less likely to be accompanied by physical symptoms (e.g., restlessness or feeling keyed up 
+or on edge). Individuals with generalized anxiety disorder report subjective distress due 
+to constant worry and related impairment in social, occupational, or other important areas 
+of functioning.
+The anxiety and worry are accompanied by at least three of the following additional 
+symptoms: restlessness or feeling keyed up or on edge, being easily fatigued, difficulty 
+concentrating or mind going blank, irritability, muscle tension, and disturbed sleep, although only one additional symptom is required in children
+
+B ip o ls r S n d rG lâ ted disorders are separated from the depressive disorders in 
+DSM-5 and placed between the chapters on schizophrenia spectrum and other psychotic 
+disorders and depressive disorders in recognition of their place as a bridge between the 
+two diagnostic classes in terms of symptomatology, family history, and genetics. The diagnoses included in this chapter are bipolar I disorder, bipolar II disorder, cyclothymic 
+disorder, substance/medication-induced bipolar and related disorder, bipolar and related disorder due to another medical condition, other specified bipolar and related disorder, and unspecified bipolar and related disorder.
+The bipolar I disorder criteria represent the modern understanding of the classic 
+manic-depressive disorder or affective psychosis described in the nineteenth century, differing from that classic description only to the extent that neither psychosis nor the lifetime 
+experience of a major depressive episode is a requirement. However, the vast majority of 
+individuals whose symptoms meet the criteria for a fully syndromal manic episode also 
+experience major depressive episodes during the course of their lives.
+Bipolar II disorder, requiring the lifetime experience of at least one episode of major depression and at least one hypomanie episode, is no longer thought to be a "milder" condition 
+than bipolar I disorder, largely because of the amount of time individuals with this condition spend in depression and because the instability of mood experienced by individuals 
+with bipolar II disorder is typically accompanied by serious impairment in work and social 
+functioning
+Bipolar I Disorder
+Diagnostic Criteria
+For a diagnosis of bipolar I disorder, it is necessary to meet tlie following criteria for a manic
+episode. The manic episode may have been preceded by and may be followed by hypomanic or major depressive episodes.
+Manic Episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood
+and abnormally and persistently increased goal-directed activity or energy, lasting at
+least 1 week and present most of the day, nearly every day (or any duration if hospitalization is necessary).
+B. During the period of mood disturbance and increased energy or activity, three (or
+more) of the following symptoms (four if the mood is only irritable) are present to a significant degree and represent a noticeable change from usual behavior:
+1. Inflated self-esteem or grandiosity.
+2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+3. More talkative than usual or pressure to keep talking.
+4. Flight of ideas or subjective experience that thoughts are racing.
+5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external
+stimuli), as reported or observed.
+6. Increase in goal-directed activity (either socially, at work or school, or sexually) or
+psychomotor agitation (i.e., puφoseless non-goal-directed activity).
+7. Excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or
+foolish business investments).
+C. The mood disturbance is sufficiently severe to cause marked impairment in social or
+occupational functioning or to necessitate hospitalization to prevent harm to self or others, or there are psychotic features.
+D. The episode is not attributable to the physiological effects of a substance (e.g., a drug
+of abuse, a medication, other treatment) or to another medical condition.
+Note: A full manic episode that emerges during antidepressant treatment (e.g., medication, electroconvulsive therapy) but persists at a fully syndromal level beyond the
+physiological effect of that treatment is sufficient evidence for a manic episode and,
+therefore, a bipolar I diagnosis
+Hypomanie Episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood
+and abnormally and persistently increased activity or energy, lasting at least 4 consecutive days and present most of the day, nearly every day.
+B. During the period of mood disturbance and increased energy and activity, three (or
+more) of the following symptoms (four if the mood is only irritable) have persisted, represent a noticeable change from usual behavior, and have been present to a significant
+degree:
+1. Inflated self-esteem or grandiosity.
+2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+3. More talkative than usual or pressure to keep talking.
+4. Flight of ideas or subjective experience that thoughts are racing.
+5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external
+stimuli), as reported or observed.
+6. Increase in goal-directed activity (either socially, at work or school, or sexually) or
+psychomotor agitation.
+7. Excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or
+foolish business investments).
+C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
+D. The disturbance in mood and the change in functioning are observable by others.
+E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the
+episode is, by definition, manic.
+F. The episode is not attributable to the physiological effects of a substance (e.g., a drug
+of abuse, a medication, other treatment).
+Note: A full hypomanie episode that emerges during antidepressant treatment (e.g.,
+medication, electroconvulsive therapy) but persists at a fully syndromal level beyond
+the physiological effect of that treatment is sufficient evidence for a hypomanie episode
+diagnosis. However, caution is indicated so that one or two symptoms (particularly increased irritability, edginess, or agitation following antidepressant use) are not taken
+as sufficient for diagnosis of a hypomanie episode, nor necessarily indicative of a bipolar diathesis.
+Note: Criteria A-'F constitute a hypomanie episode. Hypomanie episodes are common in
+bipolar I disorder but are not required for the diagnosis of bipolar I disorder
+The essential feature of a manic episode is a distinct period during which there is an abnormally, persistently elevated, expansive, or irritable mood and persistently increased 
+activity or energy that is present for most of the day, nearly every day, for a period of at 
+least 1 week (or any duration if hospitalization is necessary), accompanied by at least three 
+additional symptoms from Criterion B. If the mood is irritable rather than elevated or expansive, at least four Criterion B symptoms must be present.
+Mood in a manic episode is often described as euphoric, excessively cheerful, high, or 
+"feeling on top of the world." In some cases, the mood is of such a highly infectious quality 
+that it is easily recognized as excessive and may be characterized by unlimited and haphazard enthusiasm for interpersonal, sexual, or occupational interactions. For example, 
+the individual may spontaneously start extensive conversations with strangers in public. 
+Often the predominant mood is irritable rather than elevated, particularly when the individual's wishes are denied or if the individual has been using substances. Rapid shifts in 
+mood over brief periods of time may occur and are referred to as lability (i.e., the alterna-
+tion among euphoria, dysphoria, and irritability). In children, happiness, silliness and 
+"goofiness" are normal in the context of special occasions; however, if these symptoms are 
+recurrent, inappropriate to the context, and beyond what is expected for the developmental level of the child, they may meet Criterion A. If the happiness is unusual for a child (i.e., 
+distinct from baseline), and the mood change occurs at the same time as symptoms that 
+meet Criterion B for mania, diagnostic certainty is increased; however, the mood change 
+must be accompanied by persistently increased activity or energy levels that are obvious 
+to those who know the child well.
+During the manic episode, the individual may engage in multiple overlapping new 
+projects. The projects are often initiated with little knowledge of the topic, and nothing seems 
+out of the individual's reach. The increased activity levels may manifest at unusual hours of 
+the day.
+Inflated self-esteem is typically present, ranging from uncritical self-confidence to marked 
+grandiosity, and may reach delusional proportions (Criterion Bl). Despite lack of any particular experience or talent, the individual may embark on complex tasks such as writing a novel 
+or seeing publicity for some impractical invention. Grandiose delusions (e.g., of having a 
+special relationship to a famous person) are common. In children, overestimation of abilities 
+and belief that, for example, they are the best at a sport or the smartest in the class is normal; 
+however, when such beliefs are present despite clear evidence to the contrary or the child attempts feats that are clearly dangerous and, most important, represent a change from the 
+child's normal behavior, the grandiosity criterion should be considered satisfied.
+One of the most common features is a decreased need for sleep (Criterion B2) and is 
+distinct from insomnia in which the individual wants to sleep or feels the need to sleep but 
+is unable. The individual may sleep httle, if at all, or may awaken several hours earlier than 
+usual, feeling rested and full of energy. When the sleep disturbance is severe, the individual may go for days without sleep, yet not feel tired. Often a decreased need for sleep heralds the onset of a manic episode
+
+D eprG SSiV G diSO rdG rS include disruptive mood dysregulation disorder, major 
+depressive disorder (including major depressive episode), persistent depressive disorder 
+(dysthymia), premenstrual dysphoric disorder, substance/medication-induced depressive disorder, depressive disorder due to another medical condition, other specified depressive disorder, and imspecified depressive disorder. Unlike in DSM-IV, this chapter 
+"Depressive Disorders" has been separated from the previous chapter "Bipolar and Related Disorders." The common feature of all of these disorders is the presence of sad, 
+empty, or irritable mood, accompanied by somatic and cognitive changes that significantly affect the individual's capacity to function. What differs among them are issues of 
+duration, timing, or presumed etiology.
+In order to address concerns about the potential for the overdiagnosis of and treatment 
+for bipolar disorder in children, a new diagnosis, disruptive mood dysregulation disorder, 
+referring to the presentation of children with persistent irritability and frequent episodes 
+of extreme behavioral dyscontrol, is added to the depressive disorders for children up to 
+12 years of age. Its placement in this chapter reflects the finding that children with this 
+symptom pattern typically develop unipolar depressive disorders or anxiety disorders, 
+rather than bipolar disorders, as they mature into adolescence and adulthood.
+Major depressive disorder represents the classic condition in this group of disorders. It 
+is characterized by discrete episodes of at least 2 weeks' duration (although most episodes 
+last considerably longer) involving clear-cut changes in affect, cognition, and neurovegetative functions and inter-episode remissions. A diagnosis based on a single episode is 
+possible, although the disorder is a recurrent one in the majority of cases. Careful consideration is given to the delineation of normal sadness and grief from a major depressive episode. Bereavement may induce great suffering, but it does not typically induce an episode 
+of major depressive disorder. When they do occur together, the depressive symptoms and 
+functional impairment tend to be more severe and the prognosis is worse compared with 
+bereavement that is not accompanied by major depressive disorder. Bereavement-related 
+depression tends to occur in persons with other vulnerabilities to depressive disorders, 
+and recovery may be facilitated by antidepressant treatment
+
+Major Depressive Disorder
+Diagnostic Criteria
+A. Five (or more) of the following symptoms have been present during the same 2-week
+period and represent a change from previous functioning: at least one of the symptoms
+is either (1) depressed mood or (2) loss of interest or pleasure.
+Note: Do not include symptoms that are clearly attributable to another medical condition.
+1. Depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad, empty, hopeless) or observation made by others (e.g.,
+appears tearful). (Note: In children and adolescents, can be irritable mood.)
+2. Markedly diminished interest or pleasure in all, or almost all, activities most of the
+day, nearly every day (as indicated by either subjective account or observation).
+3. Significant weight loss when not dieting or weight gain (e.g., a change of more than
+5% of body weight in a month), or decrease or increase in appetite nearly every day.
+(Note: In children, consider failure to make expected weight gain.)
+4. Insomnia or hypersomnia nearly every day.
+5. Psychomotor agitation or retardation nearly every day (observable by others, not
+merely subjective feelings of restlessness or being slowed down).
+6. Fatigue or loss of energy nearly every day.
+7. Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+8. Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by subjective account or as observed by others).
+9. Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+Diagnostic Features
+The criterion symptoms for major depressive disorder must be present nearly every day to 
+be considered present, with the exception of weight change and suicidal ideation. Depressed mood must be present for most of the day, in addition to being present nearly every day. Often insomnia or fatigue is the presenting complaint, and failure to probe for 
+accompanying depressive symptoms will result in underdiagnosis. Sadness may be denied at first but may be elicited through interview or inferred from facial expression and 
+demeanor. With individuals who focus on a somatic complaint, clinicians should determine whether the distress from that complaint is associated with specific depressive 
+symptoms. Fatigue and sleep disturbance are present in a high proportion of cases; psychomotor disturbances are much less common but are indicative of greater overall severity, as is the presence of delusional or near-delusional guilt.
+The essential feature of a major depressive episode is a period of at least 2 weeks during 
+w^hich there is either depressed mood or the loss of interest or pleasure in nearly all activities (Criterion A). In children and adolescents, the mood may be irritable rather than sad. 
+The individual must also experience at least four additional symptoms drawn from a list 
+that includes changes in appetite or weight, sleep, and psychomotor activity; decreased energy; feelings of worthlessness or guilt; difficulty thinking, concentrating, or making decisions; or recurrent thoughts of death or suicidal ideation or suicide plans or attempts. To 
+count toward a major depressive episode, a symptom must either be newly present or must 
+have clearly worsened compared with the person's pre-episode status. The symptoms 
+must persist for most of the day, nearly every day, for at least 2 consecutive weeks. The episode must be accompanied by clinically significant distress or impairment in social, occupational, or other important areas of functioning. For some individuals with milder 
+episodes, functioning may appear to be normal but requires markedly increased effort.
+The mood in a major depressive episode is often described by the person as depressed, 
+sad, hopeless, discouraged, or "down in the dumps" (Criterion Al). In some cases, sadness 
+may be denied at first but may subsequently be elicited by interview (e.g., by pointing out 
+that the individual looks as if he or she is about to cry). In some individuals who complain 
+of feeling "blah," having no feelings, or feeling anxious, the presence of a depressed mood 
+can be inferred from the person's facial expression and demeanor. Some individuals emphasize somatic complaints (e.g., bodily aches and pains) rather than reporting feelings of 
+sadness. Many individuals report or exhibit increased irritability (e.g., persistent anger, a 
+tendency to respond to events with angry outbursts or blaming others, an exaggerated 
+sense of frustration over minor matters). In children and adolescents, an irritable or cranky 
+mood may develop rather than a sad or dejected mood. This presentation should be differentiated from a pattern of irritability when frustrated.
+Loss of interest or pleasure is nearly always present, at least to some degree. Individuals may report feeling less interested in hobbies, "not caring anymore," or not feeling any 
+enjoyment in activities that were previously considered pleasurable (Criterion A2). Family 
+members often notice social withdrawal or neglect of pleasurable avocations (e.g., a formerly avid golfer no longer plays, a child who used to enjoy soccer finds excuses not to 
+practice). In some individuals, there is a significant reduction from previous levels of sexual interest or desire.
+Appetite change may involve either a reduction or increase. Some depressed individuals report that they have to force themselves to eat. Others may eat more and may crave 
+specific foods (e.g., sweets or other carbohydrates). When appetite changes are severe (in 
+either direction), there may be a significant loss or gain in weight, or, in children, a failure 
+to make expected weight gains may be noted (Criterion A3).
+Sleep disturbance may take the form of either difficulty sleeping or sleeping excessively (Criterion A4). When insomnia is present, it typically takes the form of middle insonrmia (i.e., waking up during the night and then having difficulty returning to sleep) or 
+terminal insomnia (i.e., waking too early and being unable to return to sleep). Initial insomnia (i.e., difficulty falling asleep) may also occur. Individuals who present with oversleeping (hypersomnia) may experience prolonged sleep episodes at night or increased 
+daytime sleep. Sometimes the reason that the individual seeks treatment is for the disturbed sleep.
+Psychomotor changes include agitation (e.g., the inability to sit still, pacing, handwringing; or pulling or rubbing of the skin, clothing, or other objects) or retardation (e.g., 
+slowed speech, thinking, and body movements; increased pauses before answering; 
+speech that is decreased in volume, inflection, amount, or variety of content, or muteness) 
+(Criterion A5). The psychomotor agitation or retardation must be severe enough to be observable by others and not represent merely subjective feelings.
+Decreased energy, tiredness, and fatigue are common (Criterion A6). A person may report sustained fatigue without physical exertion. Even the smallest tasks seem to require
+substantial effort. The efficiency with which tasks are accomplished may be reduced. For 
+example, an individual may complain that washing and dressing in the morning are exhausting and take twice as long as usual.
+The sense of worthlessness or guilt associated with a major depressive episode may include unrealistic negative evaluations of one's worth or guilty preoccupations or ruminations over minor past failings (Criterion A7). Such individuals often misinterpret neutral 
+or trivial day-to-day events as evidence of personal defects and have an exaggerated sense 
+of responsibility for untoward events. The sense of worthlessness or guilt may be of delusional proportions (e.g., an individual who is convinced that he or she is personally responsible for world poverty). Blaming oneself for being sick and for failing to meet 
+occupational or inteφersonal responsibilities as a result of the depression is very common 
+and, unless delusional, is not considered sufficient to meet this criterion.
+Many individuals report impaired ability to think, concentrate, or make even minor 
+decisions (Criterion A8). They may appear easily distracted or complain of memory difficulties. Those engaged in cognitively demanding pursuits are often unable to function. In 
+children, a precipitous drop in grades may reflect poor concentration. In elderly individuals, memory difficulties may be the chief complaint and may be mistaken for early signs 
+of a dementia (''pseudodementia"). When the major depressive episode is successfully 
+treated, the memory problems often fully abate. However, in some individuals, particularly elderly persons, a major depressive episode may sometimes be the initial presentation of an irreversible dementia.
+Thoughts of death, suicidal ideation, or suicide attempts (Criterion A9) are common. 
+They may range from a passive wish not to awaken in the morning or a belief that others 
+would be better off if the individual were dead, to transient but recurrent thoughts of committing suicide, to a specific suicide plan. More severely suicidal individuals may have put 
+their affairs in order (e.g., updated wills, settled debts), acquired needed materials (e.g., a 
+rope or a gun), and chosen a location and time to accomplish the suicide. Motivations for 
+suicide may include a desire to give up in the face of perceived insurmountable obstacles, 
+an intense wish to end what is perceived as an unending and excruciatingly painful emotional state, an inability to foresee any enjoyment in life, or the wish to not be a burden to 
+others. The resolution of such thinking may be a more meaningful measure of diminished 
+suicide risk than denial of further plans for suicide.
+The evaluation of the symptoms of a major depressive episode is especially difficult 
+when they occur in an individual who also has a general medical condition (e.g., cancer, 
+stroke, myocardial infarction, diabetes, pregnancy). Some of the criterion signs and symptoms of a major depressive episode are identical to those of general medical conditions 
+(e.g., weight loss with untreated diabetes; fatigue with cancer; hypersomnia early in pregnancy; insonmia later in pregnancy or the postpartum). Such symptoms count toward a 
+major depressive diagnosis except when they are clearly and fully attributable to a general 
+medical condition. Nonvegetative symptoms of dysphoria, anhedonia, guilt or worthlessness, impaired concentration or indecision, and suicidal thoughts should be assessed with 
+particular care in such cases. Definitions of major depressive episodes that have been modified to include only these nonvegetative symptoms appear to identify nearly the same individuals as do the full criteria
+
+O bSG SSiV G -C O m p u lsiV G and related disorders include obsessive-compulsive 
+disorder (OCD), body dysmorphic disorder, hoarding disorder, trichotillomania (hairpulling disorder), excoriation (skin-picking) disorder, substance/medication-induced obsessive-compulsive and related disorder, obsessive-compulsive and related disorder due 
+to another medical condition, and other specified obsessive-compulsive and related disorder and unspecified obsessive-compulsive and related disorder (e.g., body-focused repetitive behavior disorder, obsessional jealousy).
+OCD is characterized by the presence of obsessions and/or compulsions. Obsessions
+are recurrent and persistent thoughts, urges, or images that are experienced as intrusive 
+and unwanted, whereas compulsions are repetitive behaviors or mental acts that an individual feels driven to perform in response to an obsession or according to rules that must 
+be applied rigidly. Some other obsessive-compulsive and related disorders are also characterized by preoccupations and by repetitive behaviors or mental acts in response to the 
+preoccupations. Other obsessive-compulsive and related disorders are characterized primarily by recurrent body-focused repetitive behaviors (e.g., hair pulling, skin picking) and 
+repeated attempts to decrease or stop the behaviors.
+The inclusion of a chapter on obsessive-compulsive and related disorders in DSM-5 reflects the increasing evidence of these disorders' relatedness to one another in terms of a 
+range of diagnostic validators as well as the clinical utility of grouping these disorders in 
+the same chapter. Clinicians are encouraged to screen for these conditions in individuals 
+who present with one of them and be aware of overlaps between these conditions. At the 
+same time, there are important differences in diagnostic validators and treatment approaches across these disorders. Moreover, there are close relationships between the anxiety disorders and some of the obsessive-compulsive and related disorders (e.g., OCD), 
+which is reflected in the sequence of DSM-5 chapters, with obsessive-compulsive and related disorders following anxiety disorders.
+The obsessive-compulsive and related disorders differ from developmentally normative preoccupations and rituals by being excessive or persisting beyond developmentally 
+appropriate periods. The distinction between the presence of subclinical symptoms and a 
+clinical disorder requires assessment of a number of factors, including the individual's 
+level of distress and impairment in functioning.
+The chapter begins with OCD. It then covers b
+Obsessive-Compulsive Disorder
+-------------------- i-------------------------------------------------------------------------------------------
+Diagnostic Criteria 300.3 (F42)
+A. Presence of obsessions, compulsions, or both:
+Obsessions are defined by (1) and (2):
+1. Recurrent and persistent thoughts, urges, or images that are experienced, at some
+time during the disturbance, as intrusive and unwanted, and that in most individuals
+cause marked anxiety or distress.
+2. The individual attempts to ignore or suppress such thoughts, urges, or images, or to
+neutralize them with some other thought or action (i.e., by performing a compulsion).
+Compulsions are defined by (1) and (2):
+1. Repetitive behaviors (e.g., hand washing, ordering, checking) or mental acts (e.g.,
+praying, counting, repeating words silently) that the individual feels driven to perform in response to an obsession or according to rules that must be applied rigidly.
+2. The behaviors or mental acts are aimed at preventing or reducing anxiety or distress, or preventing some dreaded event or situation; however, these behaviors or
+mental acts are not connected in a realistic way with what they are designed to neutralize or prevent, or are clearly excessive.
+Note: Young children may not be able to articulate the aims of these behaviors or
+mental acts.
+B. The obsessions or compulsions are time-consuming (e.g., take more than 1 hour per
+day) or cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning.
+C. The obsessive-compulsive symptoms are not attributable to the physiological effects
+of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+D. The disturbance is not better explained by the symptoms of another mental disorder
+(e.g., excessive worries, as in generalized anxiety disorder; preoccupation with appearance, as in body dysmorphic disorder; difficulty discarding or parting with possessions, as in hoarding disorder; hair pulling, as in trichotillomania [hair-pulling disorder];
+skin picking, as in excoriation [skin-picking] disorder; stereotypies, as in stereotypic
+movement disorder; ritualized eating behavior, as in eating disorders; preoccupation
+with substances or gambling, as in substance-related and addictive disorders; preoccupation with having an illness, as in illness anxiety disorder; sexual urges or fantasies,
+as in paraphilic disorders; impulses, as in disruptive, impulse-control, and conduct disorders; guilty ruminations, as in major depressive disorder; thought insertion or delusional preoccupations, as in schizophrenia spectrum and other psychotic disorders; or
+repetitive patterns of behavior, as in autism spectrum disorder).
+The characteristic symptoms of OCD are the presence of obsessions and compulsions (Criterion A). Obsessions are repetitive and persistent thoughts (e.g., of contamination), images 
+(e.g., of violent or horrific scenes), or urges (e.g., to stab someone). Importantly, obsessions 
+are not pleasurable or experienced as voluntary: they are intrusive and unwanted and 
+cause marked distress or anxiety in most individuals. The individual attempts to ignore or 
+suppress these obsessions (e.g., avoiding triggers or using thought suppression) or to neutralize them with another thought or action (e.g., performing a compulsion). Compulsions
+(or rituals) are repetitive behaviors (e.g., washing, checking) or mental acts (e.g., counting, 
+repeating words silently) that the individual feels driven to perform in response to an 
+obsession or according to rules that must be applied rigidly. Most individuals with OCD 
+have both obsessions and compulsions. Compulsions are typically performed in response 
+to an obsession (e.g., thoughts of contamination leading to washing rituals or that something is incorrect leading to repeating rituals until it feels "just right")· The aim is to reduce 
+the distress triggered by obsessions or to prevent a feared event (e.g., becoming ill). However, these compulsions either are not connected in a realistic way to the feared event (e.g., 
+arranging items symmetrically to prevent harm to a loved one) or are clearly excessive 
+(e.g., showering for hours each day). Compulsions are not done for pleasure, although some 
+individuals experience relief from anxiety or distress.
+Criterion B emphasizes that obsessions and compulsions must be time-consuming (e.g., 
+more than 1 hour per day) or cause clinically significant distress or impairment to warrant 
+a diagnosis of OCD. This criterion helps to distinguish the disorder from the occasional intmsive thoughts or repetitive behaviors that are common in the general population (e.g., 
+double-checking that a door is locked). The frequency and severity of obsessions and compulsions vary across individuals with OCD (e.g., some have mild to moderate symptoms, 
+spending 1-3 hours per day obsessing or doing compulsions, whereas others have nearly 
+constant intmsive thoughts or compulsions that can be incapacitating).
